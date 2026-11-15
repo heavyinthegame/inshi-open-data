@@ -1,0 +1,27 @@
+{
+  "source": "https://inshihub.com",
+  "files": [
+    {
+      "name": "official-past-exams.json",
+      "url": "https://inshihub.com/resources/official-past-exams.json"
+    },
+    {
+      "name": "official-past-exams.csv",
+      "url": "https://inshihub.com/resources/official-past-exams.csv"
+    },
+    {
+      "name": "graduate-schools.json",
+      "url": "https://inshihub.com/resources/data/graduate-schools.json"
+    },
+    {
+      "name": "themes.json",
+      "url": "https://inshihub.com/resources/data/themes.json"
+    }
+  ],
+  "counts": {
+    "official-past-exams.json": 42,
+    "official-past-exams.csv": 153,
+    "graduate-schools.json": 139,
+    "themes.json": 83
+  }
+}

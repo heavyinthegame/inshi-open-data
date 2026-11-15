@@ -1,0 +1,2018 @@
+{
+  "meta": {
+    "updatedAt": "2026-11-02",
+    "source": "https://inshihub.com/resources/official-past-exams",
+    "description": "院試hub が整備する大学院入試の公式過去問リンク集。問題本文は含まれません。引用・参照可。",
+    "license": "CC BY 4.0 (要 inshihub.com への帰属表示)"
+  },
+  "universities": [
+    {
+      "slug": "hirosaki-university",
+      "fullName": "弘前大学",
+      "shortName": "弘前大",
+      "intro": "弘前大学医学部医学科の学士編入学試験は、第1次選抜の「基礎自然科学・数学」を記述式で課します。問題冊子は入試課のページで2年度分が公開されていますが、正答・解答例の公表はありません。",
+      "sources": [
+        {
+          "departmentName": "医学部医学科 学士編入学試験（第2年次）",
+          "url": "https://nyushi.hirosaki-u.ac.jp/transfer/previous-exams/",
+          "yearRange": "令和7〜8年度（直近2年）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "英語は独立した試験科目としては課さず、第1次選抜は基礎自然科学・数学のみ。",
+          "lastConfirmedAt": "2026-09-04",
+          "note": "物理学・化学・生物学・数学を1冊にまとめた記述式。令和8年度分は画像PDF。令和7年度は問題Ⅲの本文が著作権上の理由で省略されている。",
+          "relatedProductPath": "/grad-schools/hirosaki-university/school-of-medicine/basic-natural-science-and-mathematics"
+        }
+      ]
+    },
+    {
+      "slug": "yamaguchi-university",
+      "fullName": "山口大学",
+      "shortName": "山口大",
+      "updatedAt": "2026-10-17",
+      "searchTitle": "山口大学の院試過去問｜創成科学研究科の問題・解答例とEMaT",
+      "searchDescription": "山口大学創成科学研究科の2025年度実施・2026年4月入学の過去問を理学・工学・農学から探せます。公式解答例と出題意図の違い、応用数学のEMaT・問題選択、TOEFLの利用終了時期を案内します。",
+      "intro": "創成科学研究科は理学・工学・農学に分けて過去問を公開しています。専門科目の解答例・出題意図や、口頭試問の内容も確認できます。医学部医学科の学士編入は別の入試で、問題と記号式の正答表を公開しています。",
+      "sources": [
+        {
+          "departmentName": "創成科学研究科 博士前期課程（理学系）",
+          "url": "https://www.yamaguchi-u.ac.jp/gsti/kakomon_m_ri/r7/index.html",
+          "yearRange": "2025年度実施（2025年10月・2026年4月入学）",
+          "officialAnswerAvailability": "partial",
+          "lastConfirmedAt": "2026-10-17",
+          "note": "物理学・情報科学・生物学・化学の問題と解答例・出題意図、地球科学のプレゼンテーションの内容を公開。情報科学は受験区分42と43を区別し、区分43の第2回は実施なし。数学の問題PDFは当該一覧に掲載なし。地球科学の推薦は2026年度実施・2027年4月入学から廃止。"
+        },
+        {
+          "departmentName": "創成科学研究科 博士前期課程（工学系）",
+          "url": "https://www.yamaguchi-u.ac.jp/gsti/kakomon_m_kou/r7/index.html",
+          "yearRange": "2025年度実施（2025年10月・2026年4月入学）",
+          "officialAnswerAvailability": "partial",
+          "englishHandling": "一般選抜はTOEIC・TOEFLのスコア評価。2027年度実施（2027年10月・2028年4月入学）以降はTOEICのみとなり、TOEFLは利用不可。",
+          "lastConfirmedAt": "2026-10-17",
+          "note": "応用数学の第1・2回、専門科目6受験区分の問題・解答例・出題意図と化学系区分51の口頭試問を公開。応用数学はEMaTの過去問を利用。両回とも問1〜4必答、問5・6から1問選択で計5問。EMaT公式サイトに問題と解答・解説あり。"
+        },
+        {
+          "departmentName": "創成科学研究科 博士前期課程・修士課程（農学系）",
+          "url": "https://www.yamaguchi-u.ac.jp/gsti/kakomon_m_nou/r7/index.html",
+          "yearRange": "2025年度実施（2025年10月・2026年4月入学）",
+          "officialAnswerAvailability": "partial",
+          "englishHandling": "一般選抜は2025年度実施分から英語筆記を廃止しTOEICで評価。出願基準・スコア有効期間は受験回の要項を確認。",
+          "lastConfirmedAt": "2026-10-17",
+          "note": "農学・生命科学の各コースについて第1・2回の問題と解答例・出題の意図を公開。全設問の答案はなく、出題意図だけの設問もある。生命科学第1回は訂正版の問題を掲載。"
+        },
+        {
+          "departmentName": "医学部医学科 第2年次学士編入学試験",
+          "url": "https://www.yamaguchi-u.ac.jp/med/medicine/admission/incorporation/index.html",
+          "yearRange": "令和8・9年度（学科試験の問題と解答、小論文テーマ）",
+          "officialAnswerAvailability": "full",
+          "englishHandling": "小論文試験の中で英語能力を問う設問が出る。独立した英語科目や外部スコアの提出はない。",
+          "lastConfirmedAt": "2026-10-28",
+          "note": "学科試験はマーク式40問・90分で、主に生物学。円錐の体積・気体の密度・振り子・熱力学第一法則・期待値・ハーディワインベルグ則などの計算小問を含む。正答表は公開されているが記号のみで解説はない。資料請求には応じない旨がページに明記されている。",
+          "relatedProductPath": "/grad-schools/yamaguchi-university/school-of-medicine/academic-subject-test"
+        }
+      ]
+    },
+    {
+      "slug": "tokyo-university",
+      "updatedAt": "2026-10-23",
+      "fullName": "東京大学",
+      "shortName": "東大",
+      "searchTitle": "東大の院試過去問｜研究科別の公式配布先・解答解説",
+      "searchDescription": "東大の院試過去問は、工学系研究科の共通問題を2017〜2026年度、情報理工学系研究科の共通数学を2022〜2026年度で公式公開し、専攻科目は専攻別ページで配布しています。",
+      "intro": "東京大学では研究科ごとに過去問配布の方針が分かれており、工学系研究科は専攻ページからPDFをまとめて公開、数理科学研究科と理学系研究科物理学専攻は研究科自身のサイトで配布する形を採っています。情報理工学系研究科は専攻横断で5年分の数学過去問をアーカイブ公開しており、専攻専門科目は各専攻のページに置かれます。",
+      "sources": [
+        {
+          "departmentName": "総合文化研究科 広域科学専攻 相関基礎科学系（修士）",
+          "url": "https://dbs.c.u-tokyo.ac.jp/exam/kakomon/",
+          "yearRange": "2001〜2020、2024〜2026",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "外国語（英語）と専門語学の問題は著作権上の理由で非掲載。受験年度の英語評価方法は募集要項で確認。",
+          "lastConfirmedAt": "2026-10-19",
+          "note": "入学年度と実施年を併記。2026年度総合科目は2025年7月19日実施、210分で15問から3問選択。2026年度の出題意図は掲載されているが、解答例は掲載なし。2021〜2023年度の問題へのリンクは同一覧にない。"
+        },
+        {
+          "departmentName": "数理科学研究科 数理科学専攻（修士）",
+          "url": "https://www.ms.u-tokyo.ac.jp/kyoumu/content_9.html",
+          "yearRange": "2024〜2026（入学年度・直近3年度）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年度は数学に関する英文読解・作文の独自試験。TOEFL・TOEICによる代替指定なし。公式過去問の英語PDFは問題本文ではなく出典一覧。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "2024〜2026年度の専門A・Bと英語の出典を公開。2026年度Aは第1・2問必答と第3〜7問から2題の計4題、Bは18題から3題。英語本文と解答例は非公開。",
+          "relatedProductPath": "/grad-schools/tokyo-university/graduate-school-of-mathematical-sciences/specialized-subject-a",
+          "relatedProductPaths": [
+            "/grad-schools/tokyo-university/graduate-school-of-mathematical-sciences/specialized-subject-b"
+          ]
+        },
+        {
+          "departmentName": "工学系研究科 機械工学専攻",
+          "url": "https://www2.mech.t.u-tokyo.ac.jp/admissions/",
+          "yearRange": "2013〜2026（一部年度のみ）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "TOEFL iBT/ITP のスコア提出。学内英語試験なし。",
+          "lastConfirmedAt": "2026-06-03",
+          "note": "「機械工学第一/第二」「機械工学（統合）」「博士・修士一貫」など試験区分別にPDFを掲載。問題のみで解答は非公開。",
+          "relatedProductPath": "/grad-schools/tokyo-university/graduate-school-of-engineering/mechanical-engineering"
+        },
+        {
+          "departmentName": "工学系研究科 マテリアル工学専攻",
+          "url": "https://www.material.t.u-tokyo.ac.jp/prospective_students/past_exm/",
+          "yearRange": "2017〜2026",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "TOEFL iBT/ITP のスコア提出。学内英語試験なし。",
+          "lastConfirmedAt": "2026-06-03",
+          "note": "マテリアル工学基礎の問題冊子のみ公開（熱力学・組織・物性・材料力学）。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/tokyo-university/graduate-school-of-engineering/materials-engineering"
+        },
+        {
+          "departmentName": "工学系研究科（共通：数学・物理・化学）",
+          "url": "https://www.t.u-tokyo.ac.jp/study-at-utokyo/soe/apply/past-question",
+          "yearRange": "2017〜2026",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "TOEFL iBT/ITP のスコア提出。",
+          "lastConfirmedAt": "2026-10-22",
+          "note": "工学系研究科の一般教育科目（数学・物理・化学）の過去問を年度別に集約配布。化学は応用化学系とバイオエンジニアリング系の2種を掲載。解答非公開。",
+          "relatedProductPaths": [
+            "/grad-schools/tokyo-university/graduate-school-of-engineering/applied-chemistry-general-chemistry",
+            "/grad-schools/tokyo-university/graduate-school-of-engineering/general-mathematics",
+            "/grad-schools/tokyo-university/graduate-school-of-engineering/general-physics"
+          ]
+        },
+        {
+          "departmentName": "情報理工学系研究科（一般教育科目 数学）",
+          "url": "https://www.i.u-tokyo.ac.jp/edu/entra/examarchive.shtml",
+          "yearRange": "2022〜2026（直近5年）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "TOEFL iBT/ITP のスコア提出。学内英語試験なし。",
+          "lastConfirmedAt": "2026-09-26",
+          "note": "数学（線形代数・解析・確率統計）の問題のみ。専攻別の専門科目は各専攻のページから取得。",
+          "relatedProductPath": "/grad-schools/tokyo-university/information-science/general-math"
+        },
+        {
+          "departmentName": "学際情報学府 学際情報学専攻（先端表現情報学コース）",
+          "url": "https://www.iii.u-tokyo.ac.jp/admissions/master-pastexams",
+          "yearRange": "2010〜2020（先端表現情報学コースとして公開されている専門科目）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "TOEFL/TOEIC 等の扱いは募集要項で年度別に確認。公式過去問ページは専門科目PDFを公開。",
+          "lastConfirmedAt": "2026-10-28",
+          "note": "学際情報学府の修士課程過去問ページで、先端表現情報学コース専門科目の公開PDFを年度別に掲載。2021〜2026年度の同コース専門科目PDFは同ページで公開確認できず、2007〜2009年度は旧コース名のため別候補扱い。2027年度夏季の修士課程学生募集要項（注3）では、筆記試験を行うのは社会情報学・総合分析情報学・生物統計情報学の3コースのみで、先端表現情報学コースに筆記試験はない。",
+          "relatedProductPath": "/grad-schools/tokyo-university/graduate-school-of-interdisciplinary-information-studies/emerging-design-and-informatics"
+        },
+        {
+          "departmentName": "新領域創成科学研究科 メディカル情報生命専攻",
+          "url": "https://www.cbms.k.u-tokyo.ac.jp/admission/past/",
+          "yearRange": "2015〜2020、2023、2024A/B、2025A/B、2026A/B",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "TOEFL iBT など外部英語試験の扱いは募集要項で確認。公式過去問ページでは日本語版と英語版の問題PDFを年度・日程別に案内。",
+          "lastConfirmedAt": "2026-07-05",
+          "note": "メディカルサイエンス群・情報生命科学群共通の筆記試験として、専門科目の問題PDFと一部年度の日程別出題意図を公開。2021年度・2022年度の専門科目PDFは同ページで公開確認できないため対象外。"
+        },
+        {
+          "departmentName": "理学系研究科 物理学専攻（修士）",
+          "url": "https://www.phys.s.u-tokyo.ac.jp/about/147/",
+          "yearRange": "1996〜2026",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年度はTOEFL iBT・Home Editionまたは日本国内で受験したTOEIC L&R公開テストのスコア提出。会場での英語試験なし。TOEFL ITP・TOEIC IPは対象として記載されていない。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "2022年度以降は専門科目、2020年度以前は物理・数学を別PDFで公開。2021年度は筆記試験未実施。2026年度に出題意図を掲載。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/tokyo-university/physics/specialized-physics"
+        },
+        {
+          "departmentName": "工学系研究科 物理工学専攻",
+          "url": "https://www.ap.t.u-tokyo.ac.jp/graduate.html",
+          "yearRange": "2022〜2026",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-08-13",
+          "note": "専攻ページの「専門科目過去問題」で2022〜2026年度の問題PDFを公開。2026年度は出題の意図も掲載。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/tokyo-university/graduate-school-of-engineering/applied-physics"
+        },
+        {
+          "departmentName": "工学系研究科 建築学専攻",
+          "url": "https://arch.t.u-tokyo.ac.jp/admission/past-entrance-examinations/",
+          "yearRange": "2018〜2026（2021年度は筆記試験未実施）",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-08-13",
+          "note": "専門課題Iと専門課題II（建築設計／計画・史・構法／環境／構造・材料の4グループ）の問題を年度別に公開。2021年度は筆記試験を実施せず。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/tokyo-university/graduate-school-of-engineering/architecture"
+        },
+        {
+          "departmentName": "工学系研究科 化学システム工学専攻",
+          "url": "https://www.chemsys.t.u-tokyo.ac.jp/curriculum/graduate/admission/",
+          "yearRange": "2022〜2026",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-08-13",
+          "note": "専門科目の問題PDFを年度別に公開（出題分野・出題問題数は年度により異なる旨の注記あり）。2026年度は出題意図も掲載。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/tokyo-university/graduate-school-of-engineering/chemical-system-engineering"
+        },
+        {
+          "departmentName": "工学系研究科 社会基盤学専攻",
+          "url": "https://www.civil.t.u-tokyo.ac.jp/graduate_school/exam_dl/",
+          "yearRange": "2016〜2026",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-08-13",
+          "note": "「社会基盤学」の問題PDFを2016年度分から公開。2021年度入試から社会基盤学は英語出題（専門用語に和訳付き、解答は日英どちらでも可）。博士の専門学術Bは非公開。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/tokyo-university/graduate-school-of-engineering/civil-engineering"
+        },
+        {
+          "departmentName": "工学系研究科 電気系工学専攻",
+          "url": "https://www.eeis.t.u-tokyo.ac.jp/education/subject/",
+          "yearRange": "2022〜2025年度実施入試（サンプル問題）",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-10-19",
+          "note": "現行方式の専門科目はサンプル問題（出題例）のみを公開し、過去問全文のPDF配布はページ上にない。2022〜2023年度実施分は分野別P1〜P6、2024〜2025年度実施分は統合版を日英で掲載。院試Hubの2025年度解説は2024年度実施サンプルに対応。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/tokyo-university/graduate-school-of-engineering/electrical-engineering-and-information-systems"
+        },
+        {
+          "departmentName": "工学系研究科 精密工学専攻（博士後期課程 小論文）",
+          "url": "https://www.pe.t.u-tokyo.ac.jp/admission/index.html",
+          "yearRange": "直近1年分のみ（2026年度A日程・2025年度B日程）",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-08-13",
+          "note": "博士後期課程の小論文（専門学術）は直近1年分のみPDF公開（2026年度入試A日程・2025年度入試B日程）。あわせて出題分野のキーワード集を掲載。修士課程の数学・物理学は工学系研究科共通ページを案内。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/tokyo-university/graduate-school-of-engineering/precision-engineering-doctoral-essay"
+        },
+        {
+          "departmentName": "工学系研究科 都市工学専攻",
+          "url": "https://www.due.t.u-tokyo.ac.jp/applicants/graduate/exam/pastexam/",
+          "yearRange": "2024〜2026（直近3年）",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-08-13",
+          "note": "「都市工学専門」「計画・設計・論文」の2区分で直近3年分の問題を公開。英語版は参考として掲載。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/tokyo-university/graduate-school-of-engineering/urban-engineering"
+        },
+        {
+          "departmentName": "理学系研究科 化学専攻",
+          "url": "https://www.chem.s.u-tokyo.ac.jp/chem_graduate/kakomon.html",
+          "yearRange": "2008〜2026（2021〜2023年度は非掲載）",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-08-13",
+          "note": "物理化学・有機化学・無機分析化学など科目別に長期アーカイブを公開。2021〜2023年度はコロナ対応で実施方法を変更したため非掲載。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/tokyo-university/graduate-school-of-science/chemistry"
+        },
+        {
+          "departmentName": "理学系研究科 地球惑星科学専攻",
+          "url": "https://www.eps.s.u-tokyo.ac.jp/graduateadmission/past/",
+          "yearRange": "2022〜2026（直近5年）",
+          "officialAnswerAvailability": "partial",
+          "lastConfirmedAt": "2026-08-13",
+          "note": "数学・物理学・化学・生物学・地球科学の5科目を直近5年分公開。令和8年度入試から専門科目の出題の意図と解答例（一部問題の抜粋）を公開。",
+          "relatedProductPath": "/grad-schools/tokyo-university/graduate-school-of-science/earth-science"
+        },
+        {
+          "departmentName": "情報理工学系研究科 コンピュータ科学専攻",
+          "url": "https://www.i.u-tokyo.ac.jp/edu/course/cs/admission.shtml",
+          "yearRange": "2022〜2026",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-08-13",
+          "note": "専門科目（コンピュータ科学）の筆記試験を和文・英文で年度別に公開。2022年度は8月実施・2月実施の2回分を掲載。2026年度は出題意図あり。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/tokyo-university/information-science/computer-science"
+        },
+        {
+          "departmentName": "情報理工学系研究科 創造情報学専攻",
+          "url": "https://www.i.u-tokyo.ac.jp/edu/course/ci/admission.shtml",
+          "yearRange": "2022〜2026",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-08-13",
+          "note": "専門科目と実技試験（プログラミング）の問題を日英で年度別に公開。2026年度は出題意図も掲載。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/tokyo-university/information-science/creative-informatics-specialized"
+        },
+        {
+          "departmentName": "情報理工学系研究科 電子情報学専攻",
+          "url": "https://www.i.u-tokyo.ac.jp/edu/course/ice/admission.shtml",
+          "yearRange": "2022〜2026",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-10-19",
+          "note": "専門科目（修士・博士）の問題PDFを日英で年度別に公開。2026年度は出題の意図も掲載。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/tokyo-university/information-science/electronic-information"
+        },
+        {
+          "departmentName": "情報理工学系研究科 数理情報学専攻",
+          "url": "https://www.i.u-tokyo.ac.jp/edu/course/mi/admission.shtml",
+          "yearRange": "2020、2023〜2026（2021・2022年度はレポート課題を掲載）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "外国語試験はTOEFLスコアを正式スコアとして利用。研究科によるTOEFL-ITPの実施なし。",
+          "lastConfirmedAt": "2026-08-13",
+          "note": "専門科目試験を2020年度と2023〜2026年度分公開。2021・2022年度は筆記に代わるレポート課題を掲載。2026年度は出題の意図あり。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/tokyo-university/information-science/mathematical-informatics"
+        },
+        {
+          "departmentName": "情報理工学系研究科 知能機械情報学専攻",
+          "url": "https://www.i.u-tokyo.ac.jp/edu/course/m-i/admission.shtml",
+          "yearRange": "2016〜2020",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-08-13",
+          "note": "専門科目試験の問題PDFは2016〜2020年度分のみ掲載で、2021年度以降の専門科目試験問題は未掲載。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/tokyo-university/information-science/mechano-informatics"
+        },
+        {
+          "departmentName": "情報理工学系研究科 システム情報学専攻",
+          "url": "https://www.i.u-tokyo.ac.jp/edu/course/ipc/admission.shtml",
+          "yearRange": "2022〜2026",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "英語能力の評価は願書出願時に提出するTOEFLスコアを利用。",
+          "lastConfirmedAt": "2026-08-13",
+          "note": "専門科目の問題を日英で年度別に公開。2026年度修士は出題の意図も掲載。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/tokyo-university/information-science/system-information"
+        },
+        {
+          "departmentName": "理学系研究科 天文学専攻（修士・博士課程）",
+          "url": "https://www.astron.s.u-tokyo.ac.jp/admission/graduate/exam/",
+          "yearRange": "2008〜2026年度",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "英語はTOEFL等の外部試験で評価。商品は公開された専門科目のみを扱い、英語は収録しない。",
+          "lastConfirmedAt": "2026-10-20",
+          "note": "2022〜2026年度の専門科目は数学・物理学1・物理学2・天文学の全4大問。2021年度はオンライン特例の専門科目1・2。商品は直近6回の公開範囲を収録する。2026年度の出題意図はあるが、専攻・研究科・大学本体で対応する解答例の公開は確認できなかった。",
+          "relatedProductPaths": [
+            "/grad-schools/tokyo-university/graduate-school-of-science/astronomy"
+          ]
+        },
+        {
+          "departmentName": "理学系研究科 生物科学専攻（修士）",
+          "url": "https://www.bs.s.u-tokyo.ac.jp/admission/kakomon/",
+          "yearRange": "2015〜2020・2023〜2026（公開筆記問題）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "ここでは専門科目の過去問を扱う。英語の受験方法は当該年度の募集要項で確認。",
+          "lastConfirmedAt": "2026-10-20",
+          "note": "問題一覧で2026・2025・2024・2023・2020・2019年度の専門科目を確認。2021・2022年度はオンライン口述試験。選択問題は全題を解説する。2025年の選択曲線と2026年の未掲載小問の範囲は商品ページに記録する。出題意図を完全な公式解答とは扱わない。",
+          "relatedProductPaths": [
+            "/grad-schools/tokyo-university/graduate-school-of-science/biological-sciences"
+          ]
+        },
+        {
+          "departmentName": "工学系研究科 航空宇宙工学専攻（修士）",
+          "url": "https://www.aerospace.t.u-tokyo.ac.jp/g_education/entrance.php",
+          "yearRange": "2022〜2026（専門科目の公開筆記問題）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "専門科目の過去問を扱う。英語の受験方法とスコア要件は当該年度の募集要項で確認。",
+          "lastConfirmedAt": "2026-10-20",
+          "note": "2026・2025年度の専門科目と、2024〜2022年度の午前・午後の問題PDFを確認。各年度の選択科目を全題扱う。専攻・研究科・大学本体で完全な公式解答は確認できず、公開された出題意図は正答と区別する。2027年度の試験は終了済みだが原題は未掲載。",
+          "relatedProductPaths": [
+            "/grad-schools/tokyo-university/graduate-school-of-engineering/aeronautics-and-astronautics"
+          ]
+        },
+        {
+          "departmentName": "新領域創成科学研究科 物質系専攻",
+          "url": "https://www.k.u-tokyo.ac.jp/materials/exam/",
+          "yearRange": "2022〜2026年度（入学年度・直近5回）",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-10-23",
+          "note": "公式問題PDFを5回分公開。2026年度は2025年8月19日実施。各回10問から3問を選択する専門科目で、解答・解説集は選択対象を全題収録。専攻・研究科・大学本体で確認した公開先に解答例は見つかりませんでした。2022年度第10問の図1は公式PDF自体に欠落があり、図依存の材料名と数値は推測しません。",
+          "relatedProductPath": "/grad-schools/tokyo-university/graduate-school-of-frontier-sciences/materials-science"
+        },
+        {
+          "departmentName": "新領域創成科学研究科 複雑理工学専攻",
+          "url": "https://www.k.u-tokyo.ac.jp/complex/html/examinee/examinee.html",
+          "yearRange": "2022〜2026年度（公式の年度表示・5実施回）",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-10-24",
+          "note": "専門基礎科目5回分の公式PDFを確認。2022〜2024年度は各6大問、2025・2026年度は各5大問。2026年度の和文・英文は同じ問題として照合。確認した専攻・研究科・大学本体の入試ページに完全な公式解答のリンクは見つかりませんでした。年度を試験実施暦年や入学年へ推測で読み替えません。",
+          "relatedProductPaths": [
+            "/grad-schools/tokyo-university/graduate-school-of-frontier-sciences/complexity-science-and-engineering"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "kyoto-university",
+      "updatedAt": "2026-11-02",
+      "fullName": "京都大学",
+      "shortName": "京大",
+      "searchTitle": "京大の院試過去問｜研究科別の公式問題・解答解説",
+      "searchDescription": "京大の院試過去問は、数学・数理解析を1989〜2027年度、情報学6コースを2021〜2025年度、機械理工を2024〜2026年度、経営管理4科目を2023〜2026年度で公式公開しています。",
+      "intro": "京都大学の院試過去問は研究科・専攻ごとに配布先が分かれます。理学研究科の数学・数理解析専攻は1989〜2027年度、情報学研究科は6コースを2021〜2025年度、工学研究科の機械理工学専攻は2024〜2026年度、経営管理大学院は4科目を2023〜2026年度で公式公開しています。公式ページが公開する問題と、院試hubが販売する解答・解説集は別の資料です。\n\n公共政策大学院の一般選抜は、公共政策大学院自身の過去問ページから確認できます。現代政治分析は複数分野にわたる選択問題であり、経営管理大学院の科目や理工系の過去問とは別に扱います。",
+      "sources": [
+        {
+          "departmentName": "理学研究科 数学・数理解析専攻",
+          "url": "https://www.math.kyoto-u.ac.jp/ja/past-exams",
+          "yearRange": "1989〜2027（2021年度は試験場での筆記試験なし）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年度は独自の英語筆答試問（15分・100〜200語）。数学・数理解析専攻にはTOEFLスコア提出の指定はない。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "一般入試は前年8月実施。2027年度は基礎・専門・英語・出題意図を公開。2021年度は試験場で筆記なし、2022年度英語は中止。英語原文非公開の注記があるが、2027年度の英文論述問題はPDF内で読める。",
+          "relatedProductPath": "/grad-schools/kyoto-university/graduate-school-of-science/basic-mathematics"
+        },
+        {
+          "departmentName": "理学研究科（物理・化学・地惑・生物）",
+          "url": "https://www.sci.kyoto-u.ac.jp/ja/divisions/lib/div_resources/itl_new",
+          "yearRange": "各専攻ページに依存（2〜数年程度）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "専攻別に異なる。2027年度の物理学・宇宙物理学はTOEIC L&R公開テストの公式スコアを出願時に提出。地球惑星科学は会場でTOEFL ITPを実施。化学・生物科学は各専攻の外部試験指定を確認。",
+          "lastConfirmedAt": "2026-10-15",
+          "note": "理学研究科の各専攻過去問へのリンク集。数学・物理学・宇宙物理学・地球惑星科学・化学・生物科学が対象。",
+          "relatedProductPaths": [
+            "/grad-schools/kyoto-university/graduate-school-of-science/earth-and-planetary-sciences",
+            "/grad-schools/kyoto-university/graduate-school-of-science/physics-and-astronomy"
+          ]
+        },
+        {
+          "departmentName": "工学研究科 機械理工学専攻（機械工学群）",
+          "url": "https://www.me.t.kyoto-u.ac.jp/ja/admission/exam/body/past_problems",
+          "yearRange": "2024〜2026（直近3年）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "TOEFL iBT スコア提出。学内英語試験なし。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "機械理工学・マイクロエンジニアリング・航空宇宙工学の数学・機械力学・専門科目をPDF配布。",
+          "relatedProductPath": "/grad-schools/kyoto-university/graduate-school-of-engineering/mechanical-engineering-group"
+        },
+        {
+          "departmentName": "経営管理大学院（経営管理教育部）一般選抜",
+          "url": "https://www.gsm.kyoto-u.ac.jp/admissions/information/",
+          "yearRange": "2023〜2026（直近4年）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "一般選抜は英語外部試験のスコア提出。学内での英語筆記試験はない。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "一般選抜の筆答試験問題を、経済学・経営学・会計学・数学の4科目それぞれ4年度分PDFで公開。小論文は非公開。解答例の掲載はない。",
+          "relatedProductPaths": [
+            "/grad-schools/kyoto-university/graduate-school-of-management/economics",
+            "/grad-schools/kyoto-university/graduate-school-of-management/management",
+            "/grad-schools/kyoto-university/graduate-school-of-management/accounting",
+            "/grad-schools/kyoto-university/graduate-school-of-management/mathematics"
+          ]
+        },
+        {
+          "departmentName": "情報学研究科 修士課程（夏期実施分）",
+          "url": "https://www.i.kyoto-u.ac.jp/admission/examarchive/",
+          "yearRange": "2021〜2025",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "知能情報学・社会情報学・先端数理科学・数理工学・システム科学・通信情報システムの各コースについて、修士課程夏期実施分の問題PDFを公開。公式ページでは夏期実施以外と博士後期課程の過去問は公開していない旨も案内。",
+          "relatedProductPaths": [
+            "/grad-schools/kyoto-university/graduate-school-of-informatics/mathematical-engineering",
+            "/grad-schools/kyoto-university/graduate-school-of-informatics/systems-science",
+            "/grad-schools/kyoto-university/graduate-school-of-informatics/communications-and-computer-engineering",
+            "/grad-schools/kyoto-university/graduate-school-of-informatics/advanced-mathematical-sciences",
+            "/grad-schools/kyoto-university/graduate-school-of-informatics/intelligence-science-and-technology",
+            "/grad-schools/kyoto-university/graduate-school-of-informatics/social-informatics"
+          ]
+        },
+        {
+          "departmentName": "公共政策大学院（公共政策教育部）一般選抜 現代政治分析",
+          "url": "https://www.sg.kyoto-u.ac.jp/sg/admission/past-exam/",
+          "yearRange": "2025・2026年度一般選抜（2024・2025年実施）",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-11-02",
+          "note": "現代政治分析は、2026年度に政治学・政治過程論・行政学・公共政策の4分野8問、2025年度に前3分野6問があり、それぞれから2問を選びます。教材では選択対象全14問の独自答案例と詳解を33ページに収録します。公式冊子では分野ごとに問題1・2の番号を繰り返すため、教材は分野名を添えた通し番号で対応を示します。筆答実施日は2026年度入学が2025年9月5日、2025年度入学が2024年9月6日で、アップロード年月を実施日と扱いません。専門2科目合計180分という指定を本科目だけの時間と読み替えないでください。制度・選挙データは原題が指定した時点にそろえ、理論の前提、比較と反論、政策評価の成立条件を解説します。公式解答例は掲載されていません。原題・原図・引用文、他の専門科目・英語・口述は非収録です。",
+          "relatedProductPath": "/grad-schools/kyoto-university/graduate-school-of-government/contemporary-political-analysis"
+        }
+      ]
+    },
+    {
+      "slug": "osaka-university",
+      "updatedAt": "2026-10-16",
+      "fullName": "大阪大学",
+      "shortName": "阪大",
+      "searchTitle": "阪大の院試過去問｜大阪大学の公式問題・解答解説",
+      "searchDescription": "阪大大学院の公式過去問を理学・情報科学・基礎工学・工学の専攻別に案内。数学A・B、基礎工8領域、工学の化学・環境・量子の公開資料、建築の取り寄せ方法と物理の無料解説を確認できます。",
+      "intro": "大阪大学の院試過去問は研究科・専攻ごとに配布先が分かれます。理学の物理は1998〜2026年度、数学は旧一覧を含む2003〜2027年度の掲載分、化学は2018〜2026年度を公開。情報科学は科目別、基礎工学は8領域別に掲載しています。工学はWeb公開と窓口・郵送による入手方法を分けて案内します。院試hubの販売教材は理学・情報科学の6教材で、公式問題の公開範囲すべてを収録するものではありません。",
+      "sources": [
+        {
+          "departmentName": "理学研究科 物理学専攻",
+          "url": "https://www.phys.sci.osaka-u.ac.jp/ja/grad/undergraduate_exam.html",
+          "yearRange": "1998〜2026",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年4月一般は2024年7月1日以降のTOEIC L&R・TOEFL iBTのTest Dateを使用。IP・ITP不可。TOEICはデジタル認定証の印刷。独自英語筆記なし。",
+          "lastConfirmedAt": "2026-09-26",
+          "note": "物理問題を年度別にPDF配布。受験準備・教育目的以外の複製・転用は禁止。",
+          "relatedProductPath": "/grad-schools/osaka-university/graduate-school-of-science/physics"
+        },
+        {
+          "departmentName": "理学研究科 数学専攻",
+          "url": "http://www.math.sci.osaka-u.ac.jp/inshi/",
+          "yearRange": "2003〜2027年度の掲載分（2021年度は一覧に掲載なし）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年4月一般は60分の独自英語。TOEIC700点以上等の基準を満たし免除申請すると英語満点。TOEICは紙の原本が必要。",
+          "lastConfirmedAt": "2026-09-26",
+          "note": "数学A・Bと第2次募集の問題を年度別に掲載。2003〜2015年度は旧一覧にあります。2027年4月入学の第2次募集は実施しないと案内されています。",
+          "relatedProductPath": "/grad-schools/osaka-university/graduate-school-of-science/mathematics"
+        },
+        {
+          "departmentName": "情報科学研究科（博士前期課程 一般選抜）",
+          "url": "https://www.ist.osaka-u.ac.jp/japanese/examinees/admission/past-exam.php",
+          "yearRange": "専攻・科目別に掲載（情報基礎数学は2005〜2026年度、情報数理・生物情報は2022〜2026年度など）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年4月一般は情報基礎数学のみ90分の独自英語。情報科学専攻は2024年7月以降のTOEIC公開スコア、提出困難ならTOEFL。IP・ITP不可。",
+          "lastConfirmedAt": "2026-09-26",
+          "note": "科目別に問題PDFと令和8年度の出題意図を掲載。英語模擬問題・口頭試問例は情報基礎数学向け。情報工学は2028年4月入学以降150分・3問全必須へ変更。",
+          "relatedProductPaths": [
+            "/grad-schools/osaka-university/graduate-school-of-information-science-and-technology/bioinformatics",
+            "/grad-schools/osaka-university/graduate-school-of-information-science-and-technology/information-and-physical-sciences",
+            "/grad-schools/osaka-university/graduate-school-of-information-science-and-technology/information-engineering",
+            "/grad-schools/osaka-university/graduate-school-of-information-science-and-technology/information-fundamental-mathematics"
+          ]
+        },
+        {
+          "departmentName": "理学研究科 化学専攻",
+          "url": "https://www.chem.sci.osaka-u.ac.jp/graduate/chem/admission/past_exam.html",
+          "yearRange": "2018〜2026年度",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年4月一般は外部スコアで評価。TOEICは紙の認定証原本、TOEFLは電子送付と本人用レポート印刷の両方が必要。スコア未提出は英語0点。",
+          "lastConfirmedAt": "2026-09-26",
+          "note": "博士前期課程の化学問題を年度別PDFで公開。英語は現行募集要項の外部スコア提出条件を確認してください。"
+        },
+        {
+          "departmentName": "基礎工学研究科（8領域）",
+          "url": "https://www.es.osaka-u.ac.jp/ja/examinee/graduate-school-of-engineering-science/entrance-exam/",
+          "yearRange": "領域別。電子光・物性物理・化学・化学工学・数理科学は2022〜2026年度など",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "受験する年度・専攻の募集要項で確認してください。",
+          "lastConfirmedAt": "2026-10-26",
+          "note": "機械科学は2014年度、知能システム学は2021年度、生体システム工学は2009年度まで掲載。I・IIは専門科目の区分です。",
+          "relatedProductPaths": [
+            "/grad-schools/osaka-university/graduate-school-of-engineering-science/mathematical-science-i",
+            "/grad-schools/osaka-university/graduate-school-of-engineering-science/materials-physics-i",
+            "/grad-schools/osaka-university/graduate-school-of-engineering-science/materials-physics-ii",
+            "/grad-schools/osaka-university/graduate-school-of-engineering-science/electronics-and-photonics-i",
+            "/grad-schools/osaka-university/graduate-school-of-engineering-science/electronics-and-photonics-ii",
+            "/grad-schools/osaka-university/graduate-school-of-engineering-science/mathematical-science-ii",
+            "/grad-schools/osaka-university/graduate-school-of-engineering-science/chemistry-i",
+            "/grad-schools/osaka-university/graduate-school-of-engineering-science/chemical-engineering-i",
+            "/grad-schools/osaka-university/graduate-school-of-engineering-science/chemical-engineering-ii",
+            "/grad-schools/osaka-university/graduate-school-of-engineering-science/chemistry-ii"
+          ],
+          "relatedProductPath": "/grad-schools/osaka-university/graduate-school-of-engineering-science/mathematical-science-i"
+        },
+        {
+          "departmentName": "工学研究科（専攻・コース別）",
+          "url": "https://www.eng.osaka-u.ac.jp/ja/entrance/g_admissions/",
+          "yearRange": "応用化学は2024〜2026年度。環境・エネルギー量子は科目別ZIP。建築は閲覧3年分・郵送1年分",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "応用化学の専門英語の過去問は専攻ページの請求方法を確認。外部スコアは現行募集要項に従います。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "出題意図を解答例として扱わないでください。その他の専攻の入手先は一般募集要項の『各専攻連絡先』で確認できます。"
+        },
+        {
+          "departmentName": "経済学研究科 博士前期課程 夏季入試（ミクロ経済学・マクロ経済学）",
+          "url": "https://www.econ.osaka-u.ac.jp/admission/g-notice/",
+          "yearRange": "2025・2026年度入学の夏季（2024・2025年実施）",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-11-01",
+          "note": "研究科の過去の入学試験問題ページに、2025・2026年度の筆記問題PDFを掲載。入学年度と実施年を区別してください。該当する夏季のミクロ経済学とマクロ経済学は別教材です。ミクロは全7問・27ページで、消費者理論、生産集合、交換経済、ナッシュ均衡、繰返しゲーム、厚生経済学を扱います。マクロは全6問・43設問・39ページで、成長、総供給、異時点間消費、所得リスク、為替制度と政策効果を扱います。ミクロの厚生定理やマクロの予備的貯蓄では、原題の条件だけでいえることと追加条件が必要な命題を区別して解説します。該当する公式解答例の公開は確認できず、教材は独自の解答・解説です。問題本文・原図と他の選択科目は収録しません。",
+          "relatedProductPaths": [
+            "/grad-schools/osaka-university/graduate-school-of-economics/microeconomics",
+            "/grad-schools/osaka-university/graduate-school-of-economics/macroeconomics"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "tohoku-university",
+      "updatedAt": "2026-10-16",
+      "fullName": "東北大学",
+      "shortName": "東北大",
+      "searchTitle": "東北大の院試過去問｜公式問題・解答解説",
+      "searchDescription": "東北大の公式過去問は、情報科学の数学群を1998〜2025年度、心理・哲学を2006〜2025年度、理学地学を2002〜2026年度で公開。研究科別の配布先を整理しています。",
+      "intro": "東北大学の院試過去問は研究科・専攻ごとに公式配布先が分かれます。情報科学研究科の数学群は1998〜2025年度、6群 心理・哲学は2006〜2025年度、理学研究科の地学は2002〜2026年度、物理は令和3〜8年度入学分を公開しています。工学研究科では機械系、電気・情報系、応用物理学、マテリアル・開発系などが別ページで配布しています。数学群の2024・2025年度には公式の出題意図・解答例があります。院試hubの解答・解説集は商品一覧に表示する科目・年度が対象で、公式問題の配布範囲すべてを収録するものではありません。",
+      "sources": [
+        {
+          "departmentName": "情報科学研究科 数学群（情報基礎科学専攻・システム情報科学専攻）",
+          "url": "https://www.math.is.tohoku.ac.jp/admission/index.html",
+          "yearRange": "1998〜2025実施年の掲載分（上期筆答・下期筆答・推薦小論文を区別。下期の一部は博士後期課程向け）",
+          "officialAnswerAvailability": "partial",
+          "englishHandling": "2027年4月一般選抜の1群は外部英語スコアの提出対象外。外国人留学生等特別選抜の1群は提出対象。一般の数学は英語のみ2題・和英併記2題で、日本語解答可。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "上期一般の数学は3時間4題全必須。公式一覧の年は試験実施年。2024・2025年8月は出題意図・解答例も併載するが、一部の証明は省略。",
+          "relatedProductPath": "/grad-schools/tohoku-university/graduate-school-of-information-sciences/information-foundations-mathematics"
+        },
+        {
+          "departmentName": "情報科学研究科 2群 情報・生命系",
+          "url": "https://www.ecei.tohoku.ac.jp/ecei_web/admission/index.html",
+          "yearRange": "2023年8月〜2026年3月",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "TOEFL iBT または TOEIC 公開テストのスコア提出。詳細は募集要項で確認。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "2群の物理・情報系は基礎専門6題から2題を選択。医学・生物系は別の3題から2題で、この配布先の6題と区別する。小論文・英語小論文は公開していない。",
+          "relatedProductPath": "/grad-schools/tohoku-university/graduate-school-of-information-sciences/information-and-life-sciences-basic-specialized-subjects"
+        },
+        {
+          "departmentName": "情報科学研究科 3群 機械・知能系",
+          "url": "https://www.mech.tohoku.ac.jp/examination/past-collection/",
+          "yearRange": "2024〜2026年度実施（公式ページは過去3年度分を公開）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "TOEFL iBT または TOEIC 公開テストのスコア提出。詳細は募集要項で確認。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "2026年8月から筆記は数学A・Bを各60分。2025年以前の専門科目選択から変更。販売中の3群教材は2023〜2025年度実施分で、2026年の新形式は含まない。",
+          "relatedProductPath": "/grad-schools/tohoku-university/graduate-school-of-information-sciences/mechanical-and-intelligent-systems-mathematics-specialized-subjects"
+        },
+        {
+          "departmentName": "情報科学研究科 6群 心理・哲学",
+          "url": "https://www.is.tohoku.ac.jp/jp/entrance/exam/group6.html",
+          "yearRange": "2006〜2025（一般選抜・一般編入学選抜。商品は2025・2024・2023・2022・2021・2018の6年度）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "TOEFL iBT または TOEIC 公開テストのスコア提出。詳細は募集要項で確認。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "人間社会情報科学専攻・応用情報科学専攻に関係する6群。博士前期一般選抜では心理群6問・哲学群6問の計12問から4問選択し、志望群から少なくとも3問を選択する形式。4問すべてを志望群から選んでもよい。公式ページは過去問を長期公開し、2025・2024年度は出題意図PDFも掲載するが、模範解答は確認できない。問題内容のSNS/Web公開禁止が明記されている年度があるため、商品側では問題本文・公式図表を転載しない。",
+          "relatedProductPath": "/grad-schools/tohoku-university/graduate-school-of-information-sciences/psychology-and-philosophy-specialized-subjects"
+        },
+        {
+          "departmentName": "工学研究科 共通入口（過去問題について）",
+          "url": "https://www.eng.tohoku.ac.jp/admission/grad/past_exam.html",
+          "yearRange": "各専攻ページに依存",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "英語の扱いは専攻の募集要項で確認。機械系・電気情報系・材料科学系はTOEFL iBTまたはTOEIC公開スコアを利用。",
+          "lastConfirmedAt": "2026-09-26",
+          "note": "機械系・電気情報系・応用物理学・量子エネルギー・化学バイオ系・マテリアル系・土木・都市建築・技術社会システム各専攻へのリンク集。"
+        },
+        {
+          "departmentName": "工学研究科 機械系（機械機能創成・ファインメカニクス・ロボティクス・航空宇宙）",
+          "url": "https://www.mech.tohoku.ac.jp/examination/past-collection/",
+          "yearRange": "2024〜2026年度実施（直近3年）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年4月一般選抜はTOEFL iBTまたはTOEIC公開テストのスコア提出。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "機械系の問題を年度別に配布。2026年秋季は数学A・Bが各60分。旧年度の専門科目選択と区別する。",
+          "relatedProductPath": "/grad-schools/tohoku-university/graduate-school-of-engineering/mechanical-engineering"
+        },
+        {
+          "departmentName": "工学研究科 電気・情報系（電気エネルギーシステム・通信工学・電子工学専攻）",
+          "url": "https://www.ecei.tohoku.ac.jp/ecei_web/admission/index.html",
+          "yearRange": "2023年8月〜2026年3月実施分（実施回ごとに筆記試験問題を掲載）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "TOEFL iBT または TOEIC 公開テストのスコア提出（試験実施日から過去2年以内に受験したもの）。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "電気・情報系（工学研究科 電気エネルギーシステム・通信工学・電子工学の各専攻、情報科学研究科、医工学研究科が共通）の大学院入学試験の筆記試験問題を実施回別に公開。基礎・専門科目の問題のみで、小論文・英語小論文は公開していない。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/tohoku-university/electrical-information-engineering/basic-and-specialized-subjects"
+        },
+        {
+          "departmentName": "工学研究科 応用物理学専攻",
+          "url": "https://www.apph.tohoku.ac.jp/exam",
+          "yearRange": "平成26年〜令和7年（2014〜2025）",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-09-26",
+          "note": "博士課程前期2年の課程（一般選抜）の過去問PDFを平成26年分から令和7年分まで年度別に公開。令和6年分は出題意図PDFも併載。推薦入学特別選抜向けの小論文問題例も掲載。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/tohoku-university/graduate-school-of-engineering/applied-physics"
+        },
+        {
+          "departmentName": "工学研究科 マテリアル・開発系（金属フロンティア工学・知能デバイス材料学・材料システム工学ほか）",
+          "url": "https://www.material.tohoku.ac.jp/admission/#html_past",
+          "yearRange": "2024〜2026年度入学分（2023〜2025年実施、数学・専門科目）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "TOEFL iBT または TOEIC 公開テストのスコア提出（団体受験用の TOEFL ITP・TOEIC IP は不可。試験実施日から過去2年以内のスコアが有効）。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "材料科学系3専攻共通の数学・専門科目を3冊公開。2026年実施から一般・早期卒業者選抜は数学60分、専門5題から3題・120分。掲載された2024〜2026年度入学分は変更前の問題。公式解答の掲載はない。",
+          "relatedProductPath": "/grad-schools/tohoku-university/graduate-school-of-engineering/materials-science-and-engineering"
+        },
+        {
+          "departmentName": "理学研究科 地学専攻",
+          "url": "https://www.es.tohoku.ac.jp/JP/?page_id=638",
+          "yearRange": "2002〜2026（専門科目。英語・共通問題は掲載年度が限られる）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2025年8月実施の大学院入試から、外国語科目（英語）の評価に TOEFL・TOEIC・IELTS いずれかのスコアを利用（自己推薦入学試験でもスコア提出を求める）。",
+          "lastConfirmedAt": "2026-09-26",
+          "note": "修士課程（博士課程前期）の専門科目問題を2002年度分から長期公開。2025年度分は出題意図、2026年度分は出題意図・講評PDFも掲載するが、模範解答は非公開。2006年度以前はA群・B群・C群（地圏進化学・環境地理学・地球惑星物質科学など分野別）に分かれる。",
+          "relatedProductPath": "/grad-schools/tohoku-university/graduate-school-of-science/earth-science"
+        },
+        {
+          "departmentName": "理学研究科 物理学専攻",
+          "url": "https://www.phys.tohoku.ac.jp/graduate-school/",
+          "yearRange": "令和3〜令和8年度入学分（2020年8月〜2025年8月実施、直近6年）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "英語の過去問は著作権上の観点からWeb非公開。返信用封筒を同封した郵送請求（教務企画係 物理系担当宛）で対応。",
+          "lastConfirmedAt": "2026-09-26",
+          "note": "修士課程入学試験問題（基礎数学・力学・電磁気学・量子力学・熱・統計力学）を過去6年分公開。令和7・令和8年度分は出題意図PDFも掲載。解答例は非公開。英語の問題はWeb非公開で、返信用封筒（180円切手）同封の郵送請求で入手可能。",
+          "relatedProductPath": "/grad-schools/tohoku-university/graduate-school-of-science/physics"
+        },
+        {
+          "departmentName": "経済学部 第3年次編入学試験",
+          "url": "https://www.econ.tohoku.ac.jp/examination",
+          "yearRange": "2025〜2026年度入学（2024・2025年11月実施）",
+          "officialAnswerAvailability": "full",
+          "lastConfirmedAt": "2026-11-01",
+          "note": "経済学の基礎問題と経済数学の問題・解答例を公開。2025年度は経営学の基礎問題もある。対応する解答・解説集は経済学の基礎問題2回分で、経済数学・経営学は収録していない。",
+          "relatedProductPath": "/grad-schools/tohoku-university/faculty-of-economics/economics"
+        }
+      ]
+    },
+    {
+      "slug": "nagoya-university",
+      "updatedAt": "2026-10-16",
+      "fullName": "名古屋大学",
+      "shortName": "名大",
+      "searchTitle": "名大の院試過去問｜名古屋大学の公式問題・解答解説",
+      "searchDescription": "名大の公式過去問は、多元数理を2001〜2027年度、物理を2008〜2026年度、情報を2023〜2026年度で公開し、工学・環境学は一部年度に公式解答例も掲載しています。",
+      "intro": "名古屋大学の院試過去問は研究科・専攻ごとに配布先が分かれます。多元数理科学研究科は2001〜2027年度、理学研究科物理科学領域は2008〜2026年度、情報学研究科は2023〜2026年度を掲載しています。工学研究科の機械航空系は2025〜2026年度、環境学研究科の地球惑星科学系は2023〜2027年度を公開し、一部年度には公式の解答例や出題意図もあります。院試hubの解答・解説集は商品一覧に表示する科目・年度が対象で、公式問題の配布範囲すべてを収録するものではありません。",
+      "sources": [
+        {
+          "departmentName": "理学研究科（共通入口）",
+          "url": "https://www.sci.nagoya-u.ac.jp/admission/past-exam/",
+          "yearRange": "各専攻ページに依存",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年度は領域により異なる。物理科学は英語の筆記、物質・生命化学と生命理学は外部英語検定スコアで評価する。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "物理、化学、生命理学、多元数理科学の公式過去問ページへ分野別に案内。試験科目・英語の扱いは志望領域の募集要項で確認する。"
+        },
+        {
+          "departmentName": "理学研究科 物理科学領域（物理学教室）",
+          "url": "https://www.phys.nagoya-u.ac.jp/entrance/past.html",
+          "yearRange": "2008〜2026（2021年度はオンライン面接）",
+          "officialAnswerAvailability": "partial",
+          "englishHandling": "2027年度一般選抜は英語の筆記試験で読解力・作文能力を評価。外部英語検定のスコア提出対象は物質・生命化学と生命理学で、物理科学ではない。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "物理学教室サイトで年度別PDFを配布。2026年度は出題の意図と正解・解答例を掲載し、2025年度以前は問題のみ。2021年度はオンライン面接で筆記問題の掲載なし。",
+          "relatedProductPath": "/grad-schools/nagoya-university/graduate-school-of-science/physics"
+        },
+        {
+          "departmentName": "多元数理科学研究科",
+          "url": "https://www.math.nagoya-u.ac.jp/ja/admission/gs/exam.html",
+          "yearRange": "2001〜2027（修士）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年度修士第1次は筆記試験のみ。TOEFL・TOEIC等の外部英語スコア提出なし。希望者の英語による数学受験は事前申請制。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "修士課程は2001〜2027年度の問題を一括・年度別に公開。2010〜2027年度は英訳も掲載し、2026・2027年度は出題意図を公開しています。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/nagoya-university/graduate-school-of-mathematics/mathematics"
+        },
+        {
+          "departmentName": "工学研究科 機械システム工学・航空宇宙工学（機械航空系）",
+          "url": "https://www.engg.nagoya-u.ac.jp/prospective/exam/",
+          "yearRange": "2025〜2026",
+          "officialAnswerAvailability": "partial",
+          "englishHandling": "TOEFL iBT スコア提出。",
+          "lastConfirmedAt": "2026-09-26",
+          "note": "工学研究科試験問題集で、機械システム工学・マイクロ／ナノ機械理工学・航空宇宙工学を専攻別に掲載。2026年度は問題と出題意図・正解・解答例、2025年度は問題を公開しています。",
+          "relatedProductPath": "/grad-schools/nagoya-university/graduate-school-of-engineering/mechanical-and-aerospace-engineering"
+        },
+        {
+          "departmentName": "情報学研究科（博士前期課程・全6専攻）",
+          "url": "https://www.i.nagoya-u.ac.jp/gs/entranceexamination/exam_q/",
+          "yearRange": "2023〜2026（博士前期課程）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年度夏はTOEIC L&R公開テスト・TOEFL iBT（Home Edition可）・IELTS・Duolingo。2024年4月1日以降の成績、2026年7月21日16時必着。コピー・印刷は所定の手書き記載と署名または捺印が必要。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "数理情報学・複雑系科学・社会情報学・心理・認知科学・情報システム学・知能システム学の6専攻の問題PDFを年度別に掲載。著作権の関係で一部削除があり、全文は情報学研究科教務学生係窓口で事前予約のうえ閲覧できる。解答例は非公開。",
+          "relatedProductPaths": [
+            "/grad-schools/nagoya-university/graduate-school-of-informatics/complex-systems-science",
+            "/grad-schools/nagoya-university/graduate-school-of-informatics/intelligent-systems",
+            "/grad-schools/nagoya-university/graduate-school-of-informatics/mathematical-informatics"
+          ]
+        },
+        {
+          "departmentName": "環境学研究科 地球環境科学専攻（地球惑星科学系）",
+          "url": "https://ees.env.nagoya-u.ac.jp/exam.html",
+          "yearRange": "2023〜2027（令和5〜9年度）",
+          "officialAnswerAvailability": "partial",
+          "englishHandling": "TOEFL、TOEIC または IELTS のスコアシート提出。",
+          "lastConfirmedAt": "2026-09-26",
+          "note": "専攻公式サイトの「過去の入試問題（専門科目）」で地球惑星科学系・大気水圏科学系を年度別に公開。地球惑星科学系は2026・2027年度に解答例と出題意図、2025年度に出題意図を掲載し、2023・2024年度は問題のみ。",
+          "relatedProductPath": "/grad-schools/nagoya-university/graduate-school-of-environmental-studies/earth-and-planetary-sciences"
+        },
+        {
+          "departmentName": "経済学部 第3年次編入学試験",
+          "url": "https://mail.soec.nagoya-u.ac.jp/exam/transfer.html",
+          "yearRange": "2025〜2026年度",
+          "officialAnswerAvailability": "partial",
+          "lastConfirmedAt": "2026-11-01",
+          "note": "経済・経営に関する基礎的な問題を2年度分公開。2026年度は正解・解答例（解答のポイント）と出題の意図、2025年度は出題の意図を掲載している。対応する解答・解説集は両年度の専門科目を対象とする。",
+          "relatedProductPath": "/grad-schools/nagoya-university/faculty-of-economics/economics-and-management"
+        }
+      ]
+    },
+    {
+      "slug": "kyushu-university",
+      "updatedAt": "2026-10-16",
+      "fullName": "九州大学",
+      "shortName": "九大",
+      "searchTitle": "九大院試の過去問｜学府・専攻別の公式問題と解答",
+      "searchDescription": "九州大学の工学府11専攻と理学・数理・システム情報の公式過去問を案内。機械は2024〜2026年度、土木は2022〜2026年、化学工学は2026・2027年度の問題・解答例を科目別に探せます。",
+      "intro": "九州大学の過去問は学府・専攻ごとに公開範囲が異なります。工学府では機械・水素が2024〜2026年度、土木が2022〜2026年4月入学、化学工学が2026・2027年度を公開。土木・化学工学・航空宇宙には公式解答もあります。理学・数理・システム情報の配布先も以下に掲載しています。",
+      "sources": [
+        {
+          "departmentName": "理学府 物理学専攻（修士）",
+          "url": "https://www.phys.kyushu-u.ac.jp/graduate/problem.html",
+          "yearRange": "2015〜2026",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年度修士はTOEIC L&R・S&WまたはTOEFL iBT。入学試験日から2年以内の証明書を提出し、受験時に原本持参。",
+          "lastConfirmedAt": "2026-10-15",
+          "note": "物理学修士課程入学試験問題を年度別にPDF配布。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/kyushu-university/graduate-school-of-science/physics"
+        },
+        {
+          "departmentName": "理学府（共通入口：物理・化学・地球惑星科学）",
+          "url": "https://www.sci.kyushu-u.ac.jp/admission/daigakuin_past.html",
+          "yearRange": "各専攻ページに依存",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "英語の対象試験・期限は専攻別。2027年度要項では物理はTOEIC・TOEFL、化学はTOEICのみ。理学府全体でTOEFL必須ではありません。",
+          "lastConfirmedAt": "2026-10-15",
+          "note": "募集要項・入試問題のリンク集。専攻別ページから入手。"
+        },
+        {
+          "departmentName": "理学府 地球惑星科学専攻（修士）",
+          "url": "https://www.geo.kyushu-u.ac.jp/graduate_school/admission/for_undergraduate_students/past_examinations/",
+          "yearRange": "平成16〜2026年度（22年分）",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-08-13",
+          "note": "専攻サイトで年度別に問題PDFを公開。2027年度募集（2026年度実施）以降は入試仕様が大きく変わる旨の注記あり。解答は非公開。",
+          "relatedProductPath": "/grad-schools/kyushu-university/graduate-school-of-science/earth-and-planetary-sciences"
+        },
+        {
+          "departmentName": "工学府 機械工学・水素エネルギーシステム専攻",
+          "url": "https://www.mech.kyushu-u.ac.jp/exam/exam02/exam02_past",
+          "yearRange": "2024〜2026年度（4月入学）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年度一般はTOEICまたはTOEFL。国内TOEIC L&Rのデジタル認定証を印刷して持参。一般試験日から2年以内、初日1時限目前に回収。IPとTOEFL MyBestは対象外。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "機械と水素の共通問題。数学120分、材料力学・機械力学・熱工学・流体工学各90分と掲載。2026年度は2025年実施。科目別の試験であり、他科目へ時間を移せない。2023年度は現行一覧に掲載なし。",
+          "relatedProductPath": "/grad-schools/kyushu-university/graduate-school-of-engineering/mechanical-engineering"
+        },
+        {
+          "departmentName": "システム情報科学府（情報理工学・電気電子工学）",
+          "url": "https://www.isee.kyushu-u.ac.jp/admissions_master.html",
+          "yearRange": "令和4〜8年度（直近5年）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年度は国内TOEIC L&Rのデジタル認定証、TOEFL iBT（ETS送付も必要）、IELTS Academic。一般試験の出願末日から2年以内の受験日。",
+          "lastConfirmedAt": "2026-10-15",
+          "note": "情報理工学専攻・電気電子工学専攻の修士課程一般入試問題を過去5年間分PDF配布。",
+          "relatedProductPaths": [
+            "/grad-schools/kyushu-university/graduate-school-of-information-science-and-electrical-engineering/information-science-mathematics",
+            "/grad-schools/kyushu-university/graduate-school-of-information-science-and-electrical-engineering/information-science-specialized-subjects",
+            "/grad-schools/kyushu-university/graduate-school-of-information-science-and-electrical-engineering/electrical-and-electronic-engineering-specialized-subjects"
+          ]
+        },
+        {
+          "departmentName": "数理学府 数理学コース",
+          "url": "https://www.math.kyushu-u.ac.jp/information/7657/",
+          "yearRange": "数理学府の案内ページに依存",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年度数理学コース一般の通常出願には英語スコアの記載なし。システム生命科学府を第2志望として併願する場合はTOEIC・TOEFLの写しを別提出。",
+          "lastConfirmedAt": "2026-10-15",
+          "note": "数理学府の入試案内ページから過去問・募集要項を確認できます。",
+          "relatedProductPath": "/grad-schools/kyushu-university/graduate-school-of-mathematics/basic-mathematics"
+        },
+        {
+          "departmentName": "工学府 土木工学専攻",
+          "url": "https://civil.kyushu-u.ac.jp/exam/master/",
+          "yearRange": "2022〜2026年4月入学",
+          "officialAnswerAvailability": "partial",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "土木基礎・数学の問題を公開。2026年分には両科目の解答例もあり、土木基礎の問題と解答は各2ファイルに分割。2022〜2025年分は問題のみ。"
+        },
+        {
+          "departmentName": "工学府 化学工学専攻",
+          "url": "https://chem-eng.kyushu-u.ac.jp/?page_id=31",
+          "yearRange": "2026・2027年度",
+          "officialAnswerAvailability": "full",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "掲載2年度の10科目・項目に問題・解答例・出題意図を公開。2027年度は2026年8月実施、2026年度は2025年8月実施。数学の全3問は院試hubでも途中式を解説している。"
+        },
+        {
+          "departmentName": "工学府 航空宇宙工学専攻",
+          "url": "https://www.aero.kyushu-u.ac.jp/ja/admissions/graduate/exam4graduate",
+          "yearRange": "2026年度はWeb閲覧、2022〜2025年度は窓口・郵送",
+          "officialAnswerAvailability": "partial",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "2026年度の流体力学・熱工学・固体力学・力学及び制御は、公式ビューアで問題と解答例を閲覧。2022〜2025年度は事務室で閲覧・複写用一時貸出、または所定申込書と320円切手付き角2返信用封筒で郵送請求。文書による許諾なしの複製を禁止する公式条件に従う。"
+        },
+        {
+          "departmentName": "工学府 応用化学専攻（機能物質化学）",
+          "url": "http://www.cstf.kyushu-u.ac.jp/japanese/admission/exam",
+          "yearRange": "2024〜2026年度",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "機能物質化学の年度別問題PDFを公開。ページ上部には旧専攻群と古い英語条件もあるため、出願条件は現行の工学府募集要項で確認する。分子生命工学は別窓口。"
+        },
+        {
+          "departmentName": "工学府 量子物理工学専攻",
+          "url": "http://www.qpn.kyushu-u.ac.jp/nyushi.html",
+          "yearRange": "2024〜2026年度",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "数学・英語・専門科目・小論文を公開。英語の一部は著作権のため非表示で、全文は窓口閲覧。公式は個人の学習目的に限り、商業利用・転載等を禁止している。"
+        },
+        {
+          "departmentName": "工学府 船舶海洋工学専攻",
+          "url": "https://www.nams.kyushu-u.ac.jp/wp/admissions#graduate",
+          "yearRange": "2025・2026年度、2018年度の力学",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "2025・2026年度の入試問題PDFと2018年度の力学を公開。一般選抜タイプⅠ・Ⅱで専門科目の選択条件が異なる。現在の出願条件は工学府募集要項で確認する。"
+        }
+      ]
+    },
+    {
+      "slug": "hokkaido-university",
+      "updatedAt": "2026-10-25",
+      "searchTitle": "北大の院試過去問・解答｜理学院・工学院・情報科学院",
+      "searchDescription": "北大の大学院過去問を学院・専攻・年度から探せます。物理2006〜2027年度、工学院6区分と情報科学院5コース、自然史科学の問題・解答例、数学の修士と博士の違いを案内。量子力学と微分方程式の無料解説も掲載。",
+      "fullName": "北海道大学",
+      "shortName": "北大",
+      "intro": "北海道大学工学院は「過去2年間の問題に限りHPで公表」という明示的なポリシーを持っており、それ以前の年度は公表終了となります。情報科学院は情報科学専攻の各コース別に専門科目1・2の過去問を公開しており、理学院は専攻ごとに過去問ページが分かれます。",
+      "sources": [
+        {
+          "departmentName": "工学院（修士共通：機械宇宙・応用物理・マテリアル・量子理工 ほか）",
+          "url": "https://www.eng.hokudai.ac.jp/graduate/examinfo/test/",
+          "yearRange": "直近2年（2025・2026年度）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "受験する専攻・研究室群の現行募集要項で、外部スコアの種類・期限を確認。",
+          "lastConfirmedAt": "2026-10-24",
+          "note": "「過去2年間の問題に限りHPで公表」が明文化。応用量子科学系研究室群の試験問題も同ページで公開。解答例は非公開。2026年度は6区分に出題の意図も掲載。",
+          "relatedProductPath": "/grad-schools/hokkaido-university/graduate-school-of-engineering/mechanical-and-space-engineering",
+          "relatedProductPaths": [
+            "/grad-schools/hokkaido-university/graduate-school-of-engineering/applied-quantum-science-and-engineering",
+            "/grad-schools/hokkaido-university/graduate-school-of-engineering/materials-science-and-engineering"
+          ]
+        },
+        {
+          "departmentName": "理学院 物性物理学専攻・宇宙理学専攻",
+          "url": "https://www.ep.sci.hokudai.ac.jp/enroll_pastQ.html",
+          "yearRange": "2006〜2027年度（入学年度。募集回ごとに掲載内容が異なる）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "旧年度の英語問題と現在の外部スコア提出を区別し、受験年度の募集要項を確認。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "宇宙理学専攻の公式一覧から合同問題を案内。2027年度夏季は午前・午後を公開、秋季・冬季は一覧が空欄。掲載ページに解答例はない。",
+          "relatedProductPath": "/grad-schools/hokkaido-university/graduate-school-of-science/physics"
+        },
+        {
+          "departmentName": "理学院 数学専攻（博士後期課程の筆記過去問）",
+          "url": "https://www2.sci.hokudai.ac.jp/dept/math/graduate/doctoral-entrance-info/pastexam",
+          "yearRange": "2020〜2027年度（博士後期課程）",
+          "lastConfirmedAt": "2026-10-22",
+          "note": "2026・2027年度には出題の意図も掲載。修士の筆記問題ではない。2027年度夏季の修士一般選抜は数学レポートとオンライン口頭試問を指定。",
+          "relatedProductPaths": [
+            "/grad-schools/hokkaido-university/graduate-school-of-science/mathematics-doctoral"
+          ],
+          "officialAnswerAvailability": "none"
+        },
+        {
+          "departmentName": "理学院 自然史科学専攻 多様性生物学講座",
+          "url": "https://biodiversity.sci.hokudai.ac.jp/bd/admission/",
+          "yearRange": "2008〜2027年度（入学年度。各年度は前年夏の実施分）の問題。出題意図と解答例は2027年度分のみ",
+          "officialAnswerAvailability": "partial",
+          "lastConfirmedAt": "2026-10-28",
+          "note": "2022〜2027年度入学者選抜の夏期6回（2021〜2026年実施）の専門科目を公開。最新の2027年度は2026年8月10日実施で、公式解答例とキーワードも掲載。2022〜2026年度の公式解答は2026年10月22日の確認範囲では見つからず、キーワードは正答表として扱わない。",
+          "relatedProductPaths": [
+            "/grad-schools/hokkaido-university/graduate-school-of-science/biodiversity-biology"
+          ]
+        },
+        {
+          "departmentName": "情報科学院 情報科学専攻 生体情報工学コース",
+          "url": "https://www.ist.hokudai.ac.jp/examinfo/",
+          "yearRange": "2025〜2026年度（専門科目1・2。2025年度分は公式過年度ページで確認）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年4月修士はTOEIC L&R・TOEFL iBT・IELTS Academicの指定スコアで評価。IP/ITP不可、TOEFL Special Home Edition可、MyBest不可。",
+          "lastConfirmedAt": "2026-10-15",
+          "note": "情報科学院の修士課程過去問ページで、生体情報工学コースの専門科目1・2が公開されています。2026年度は現行ページ、2025年度は公式の過年度ページから確認しました。",
+          "relatedProductPath": "/grad-schools/hokkaido-university/graduate-school-of-information-science-and-technology/biomolecular-information-science"
+        },
+        {
+          "departmentName": "情報科学院 情報科学専攻（情報理工学・情報エレクトロニクス・メディアネットワーク・システム情報科学コース）",
+          "url": "https://www.ist.hokudai.ac.jp/examinfo/",
+          "yearRange": "2025〜2026年度（専門科目1・2。2025年度分は公式過年度ページで確認）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年4月修士はTOEIC L&R・TOEFL iBT・IELTS Academicの指定スコアで評価。IP/ITP不可、TOEFL Special Home Edition可、MyBest不可。",
+          "lastConfirmedAt": "2026-10-15",
+          "note": "情報科学院の修士課程過去問ページで、情報理工学・情報エレクトロニクス・メディアネットワーク・システム情報科学の各コースの専門科目1・2が公開されています。2026年度（令和8年度）は現行ページ、2025年度（令和7年度）は公式の過年度ページで確認しました。解答例は非公開。",
+          "relatedProductPaths": [
+            "/grad-schools/hokkaido-university/graduate-school-of-information-science-and-technology/computer-science-and-information-technology",
+            "/grad-schools/hokkaido-university/graduate-school-of-information-science-and-technology/information-electronics",
+            "/grad-schools/hokkaido-university/graduate-school-of-information-science-and-technology/media-and-network-technologies",
+            "/grad-schools/hokkaido-university/graduate-school-of-information-science-and-technology/system-information-science"
+          ]
+        },
+        {
+          "departmentName": "理学院 自然史科学専攻（地球惑星システム科学講座）",
+          "url": "https://epsys.sci.hokudai.ac.jp/exam.html",
+          "yearRange": "公式一覧は2023〜2025年度、問題冊子は2024〜2026年度入学（計5回）",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "専門科目の5回分を公開。2025年度夏期の表記は2025年8月実施・2026年度入学の問題。公式一覧の2025年度冬期は募集未実施。この一覧に解答例の掲載はない。",
+          "relatedProductPath": "/grad-schools/hokkaido-university/graduate-school-of-science/earth-and-planetary-sciences"
+        },
+        {
+          "departmentName": "総合化学院 総合化学専攻（修士課程）",
+          "url": "https://www.cse.hokudai.ac.jp/admission/",
+          "yearRange": "2021〜2026年度入学・夏季6回（2020〜2025年実施）",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-10-22",
+          "note": "総合基礎科目はA・B群共通の全4題。専門基礎A/B・専門A/Bとは分けて確認。学院の過去問一覧と大学本体の入試案内を照合し、解答例の公開は確認できない。",
+          "relatedProductPaths": [
+            "/grad-schools/hokkaido-university/graduate-school-of-chemical-sciences-and-engineering/comprehensive-basic-chemistry"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "institute-of-science-tokyo",
+      "updatedAt": "2026-10-16",
+      "fullName": "東京科学大学（旧 東京工業大学）",
+      "shortName": "科学大",
+      "searchTitle": "東京科学大（旧東工大）の院試過去問・解答解説",
+      "searchDescription": "東京科学大学（旧東工大）の公式過去問は理工学系6学院を系別に公開し、2025年実施分は問題と出題の意図を掲載しています。",
+      "intro": "東京科学大学（旧東京工業大学）の理工学系大学院の過去問は、公式サイトで学院・系別に公開されています。公式の年表示は入学年度ではなく試験の実施年です。2025年実施分は問題と出題の意図を別々に掲載し、数学系の共通一覧は2020〜2024年実施分を掲載し、数学系の独自アーカイブには2026年度版もあります。",
+      "sources": [
+        {
+          "departmentName": "全学院共通（理学院・工学院・物質理工学院・情報理工学院 ほか）",
+          "url": "https://admissions.isct.ac.jp/ja/013/graduate/examination-questions",
+          "yearRange": "主に2021〜2025年実施（数学系は2020〜2024年実施）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年4月・2026年9月入学の理工学系修士は、数学系を除きTOEIC L&R・TOEFL iBT・Home Editionの外部スコアを使用。数学系は独自英語筆答が必須で、外部スコアによる免除はありません。提出期限は系別です。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "学院・系単位で問題と出題の意図を配布。出題の意図は解答例とは異なります。数理・計算科学系の「2024年から英文出題なし」は専門問題の言語の案内で、英語外部スコアが不要という意味ではありません。物理学系は2020年に代替口述試験を実施したため問題掲載なし。著作権による非公開箇所があります。",
+          "relatedProductPath": "/grad-schools/institute-of-science-tokyo/school-of-science/mathematics",
+          "relatedProductPaths": [
+            "/grad-schools/institute-of-science-tokyo/school-of-computing/computer-science",
+            "/grad-schools/institute-of-science-tokyo/school-of-computing/mathematical-and-computing-science",
+            "/grad-schools/institute-of-science-tokyo/school-of-engineering/electrical-and-electronic-engineering",
+            "/grad-schools/institute-of-science-tokyo/school-of-engineering/information-and-communications",
+            "/grad-schools/institute-of-science-tokyo/school-of-engineering/mechanical-engineering",
+            "/grad-schools/institute-of-science-tokyo/school-of-engineering/system-control-engineering",
+            "/grad-schools/institute-of-science-tokyo/school-of-life-science-and-technology/life-science-and-technology",
+            "/grad-schools/institute-of-science-tokyo/school-of-materials-and-chemical-technology/materials-science-and-engineering",
+            "/grad-schools/institute-of-science-tokyo/school-of-science/chemistry",
+            "/grad-schools/institute-of-science-tokyo/school-of-science/earth-and-planetary-sciences"
+          ]
+        },
+        {
+          "departmentName": "理学院 物理学系（系独自）",
+          "url": "https://www.phys.sci.isct.ac.jp/",
+          "yearRange": "系サイトに依存",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年4月・2026年9月入学ではTOEIC L&R・TOEFL iBT・Home Editionを使用。物理学系は出願時に提出せず、筆答試験当日にオンライン版PDFを印刷して持参。当日未提出は不合格です。",
+          "lastConfirmedAt": "2026-10-15",
+          "note": "物理学系の独自サイト。公式過去問は学院横断アーカイブも参照。英語の提出方法は2027年4月・2026年9月入学募集要項21頁で確認。数学系と同様、物理学系はA日程を実施しません。",
+          "relatedProductPath": "/grad-schools/institute-of-science-tokyo/school-of-science/physics"
+        }
+      ]
+    },
+    {
+      "slug": "tsukuba-university",
+      "updatedAt": "2026-11-02",
+      "fullName": "筑波大学",
+      "shortName": "筑波大",
+      "intro": "筑波大学は学位プログラム制への移行に合わせて、理工情報生命学術院・数理物質科学研究群・システム情報工学研究群が学位プログラム単位で過去問を配布しています。数学類サイトでは8月期・1〜2月期の両方の問題が掲載され、学位プログラム単位の募集要項ページからも辿れます。\n\n人文社会科学研究群では、人文学学位プログラムの専攻別ページにも過去問と出題意図があります。哲学・思想の倫理学教材は専門科目Ⅰだけが対象で、別分野のⅠや文献読解の専門科目Ⅱとは区別して案内します。",
+      "sources": [
+        {
+          "departmentName": "数理物質科学研究群 数学学位プログラム",
+          "url": "https://program.math.tsukuba.ac.jp/graduate/gakuip-policy/entrance_exam/",
+          "yearRange": "令和4〜令和8年度（8月期・1〜2月期）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年度冬は2025年1月以降のTOEIC L&R・TOEFL iBT（Home Edition可）・IELTS Academic。英語100点。TOEIC860等は満点換算基準で出願最低点ではない。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "2026年度の夏・冬は6問から3問選択、2025年度冬は5問から3問。前半3問の必答指定なし。2026年度8月期は2025年8月実施。問題・出題意図を公開。",
+          "relatedProductPath": "/grad-schools/tsukuba-university/degree-program-in-mathematics/specialized-subject-mathematics"
+        },
+        {
+          "departmentName": "数理物質科学研究群（学位プログラム別募集要項）",
+          "url": "https://www.ap-graduate.tsukuba.ac.jp/course/pas/",
+          "yearRange": "各学位プログラムページに依存",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "博士前期一般の冬は2025年1月以降の有効な外部スコアが必要。未提出は外国語欠席で選考対象外。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "数理物質科学研究群の学位プログラム単位で募集要項・過去問の所在を案内。"
+        },
+        {
+          "departmentName": "全学共通（過去問題サイト）",
+          "url": "https://www.tsukuba.ac.jp/admission/graduate-overview/past-exam/",
+          "yearRange": "各研究群・学位プログラムに依存",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "外部英語試験スコア提出が主。詳細は学位プログラム別。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "全学的な大学院入試過去問の案内ページ。"
+        },
+        {
+          "departmentName": "数理物質科学研究群 応用理工学学位プログラム（電子・物理工学）",
+          "url": "https://www.tsukuba.ac.jp/admission/graduate-overview/past-exam/",
+          "yearRange": "2025・2026（令和7・8）年度分（各年度 8月実施・1〜2月実施の2回）",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "全学の「大学院入学試験過去問題」ページから年度別PDFに辿れる。応用理工学学位プログラム電子・物理工学の1冊に、8月実施と1〜2月実施の2回分の問題と「出題意図」がまとめて収録されている。2025年度分のPDFも公開が続いており、2025・2026年度で計4回分を参照できる。2026年度の2回は英語で出題され、専門用語に日本語が併記される。数学必答＋他5分野から3問で力学か電磁気を含む。4問超の解答は無効、日本語・英語で解答可。解答例は非公開で、出題意図は評価の観点を述べたもの。",
+          "relatedProductPath": "/grad-schools/tsukuba-university/degree-program-in-engineering-sciences/applied-physics"
+        },
+        {
+          "departmentName": "数理物質科学研究群 物理学学位プログラム",
+          "url": "https://grad.physics.tsukuba.ac.jp/%E5%A4%A7%E5%AD%A6%E9%99%A2%E5%85%A5%E5%AD%A6%E6%A1%88%E5%86%85/",
+          "yearRange": "2024〜2026年度（直近3年分）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年度夏一般は2024年7月以降の外部スコア。英語100点。冬募集は未確定。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "学位プログラム公式サイトの大学院入学案内ページ「過去の入試問題」欄に2024〜2026年度の問題PDFを掲載（2025・2026年度は出題意図PDFも公開）。前期課程は推薦入試（7月・口述のみ）と一般入試（8月・筆記＋口述）で、冬募集は2026年10月16日時点で未確定、募集分野等は11月掲載予定の要項で確認。2026年度問題は大問Ⅰが10問中5問選択、Ⅱ〜Ⅴは基礎・応用とも必答。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/tsukuba-university/degree-program-in-physics/physics"
+        },
+        {
+          "departmentName": "人文社会科学研究群 人文学学位プログラム 哲学・思想 専門科目Ⅰ（倫理学・倫理思想史）",
+          "url": "https://pub.logos.tsukuba.ac.jp/%E5%85%A5%E8%A9%A6%E6%83%85%E5%A0%B1/",
+          "yearRange": "2025・2026年度1・2月期一般入学試験",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-11-02",
+          "note": "対象回の倫理学専門科目Ⅰは、各回とも自由論述1問と、10項目中3項目を選ぶ用語説明です。教材は選択対象を全て扱い、全4大問・22答案例を25ページに収録します。公式の出題意図と参考文献の議論を照合した独自答案で、大学の公式答案や採点基準ではありません。論述では理論の比較、具体例と反論への応答を説明し、用語も採用した思想家や文脈を明示します。原著全体ではなく大学の講義や研究論文に含まれる原典引用を参照した箇所は、その範囲を注記しています。対象科目の原題は両回とも全文を確認でき、他分野や専門科目Ⅱの一部非公開部分を本商品の資料不足とは扱いません。2025・2026年の各1月29日実施です。問題本文・引用文、哲学/宗教学のⅠ、文献読解Ⅱは非収録です。",
+          "relatedProductPath": "/grad-schools/tsukuba-university/degree-program-in-humanities/specialized-subject-i-ethics"
+        }
+      ]
+    },
+    {
+      "slug": "university-of-electro-communications",
+      "updatedAt": "2026-10-17",
+      "fullName": "電気通信大学",
+      "shortName": "電通大",
+      "searchTitle": "電通大の院試過去問｜4専攻の公式問題・解答解説",
+      "searchDescription": "電通大情報理工学研究科は、4専攻の専門科目を2021〜2025年8月実施分で公式公開し、2025年実施分には解答例も掲載しています。",
+      "intro": "電気通信大学は、情報理工学研究科の情報学、情報・ネットワーク工学、機械知能システム学、基盤理工学の4専攻について、博士前期課程一般入試の専門科目を同じ公式ページで公開しています。2021〜2025年8月実施分の問題を年度別に確認でき、最新の2025年8月実施分には各専攻の解答例も掲載されています。",
+      "sources": [
+        {
+          "departmentName": "情報理工学研究科（博士前期課程 一般入試）",
+          "url": "https://www.uec.ac.jp/education/graduate/admission/kakomon.html",
+          "yearRange": "2021〜2025年8月実施（各実施年10月・翌年4月入学）",
+          "officialAnswerAvailability": "partial",
+          "englishHandling": "TOEIC/TOEFL スコア提出。学内英語試験なし。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "情報学、情報・ネットワーク工学、機械知能システム学、基盤理工学の4専攻を一覧化。2025年8月実施分は各専攻の解答例も併載。社会人入試の小論文のみ入試課窓口で閲覧。",
+          "relatedProductPaths": [
+            "/grad-schools/university-of-electro-communications/graduate-school-of-informatics-and-engineering/informatics",
+            "/grad-schools/university-of-electro-communications/graduate-school-of-informatics-and-engineering/mechanical-intelligent-systems",
+            "/grad-schools/university-of-electro-communications/graduate-school-of-informatics-and-engineering/computer-and-network-engineering",
+            "/grad-schools/university-of-electro-communications/graduate-school-of-informatics-and-engineering/fundamental-science-and-engineering-electrical-electronic-optical-devices",
+            "/grad-schools/university-of-electro-communications/graduate-school-of-informatics-and-engineering/fundamental-science-and-engineering-inorganic-organic-physical-chemistry",
+            "/grad-schools/university-of-electro-communications/graduate-school-of-informatics-and-engineering/fundamental-science-and-engineering-mathematics-mechanics",
+            "/grad-schools/university-of-electro-communications/graduate-school-of-informatics-and-engineering/fundamental-science-and-engineering-molecular-biochemistry-cell-neurobiology"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "toyohashi-university-of-technology",
+      "fullName": "豊橋技術科学大学",
+      "shortName": "豊橋技科大",
+      "intro": "豊橋技術科学大学は「過去の入試問題」ページで、入学者選抜試験の過去2回分について問題・解答例を公開しています。大学院工学研究科博士前期課程では、情報・知能工学専攻を含む各分野の第1次募集・第2次募集・外国人留学生入試のPDFを確認できます。",
+      "sources": [
+        {
+          "departmentName": "工学研究科 情報・知能工学専攻（博士前期課程）",
+          "url": "https://www.tut.ac.jp/exam/entrance/past.html",
+          "yearRange": "令和8年度（第1次募集・第2次募集・外国人留学生入試）",
+          "officialAnswerAvailability": "full",
+          "englishHandling": "英語の扱いは入試区分・募集要項で確認。外国人留学生入試は別区分として過去問を掲載。",
+          "lastConfirmedAt": "2026-06-20",
+          "note": "公式ページで、令和8年度博士前期課程の情報・知能工学専攻について問題・解答例・出題の意図PDFを掲載。販売PDFには問題本文・公式解答例を転載しない。",
+          "relatedProductPath": "/grad-schools/toyohashi-university-of-technology/graduate-school-of-engineering/information-and-intelligence-engineering"
+        }
+      ]
+    },
+    {
+      "slug": "kobe-university",
+      "fullName": "神戸大学",
+      "shortName": "神戸大",
+      "searchTitle": "神戸大の院試過去問・解答｜機械工学・農学・理学・経済学",
+      "searchDescription": "神戸大学大学院の公式過去問を研究科・専攻から探せます。機械工学2024〜2026年度18科目分、農学の科目別問題への入口、理学数学2015〜2026年度、数学Ⅱの無料解答と販売教材の収録範囲を案内します。",
+      "updatedAt": "2026-11-01",
+      "intro": "神戸大学は理学研究科の専攻ごとに独立した過去問ページを持ち、物理学専攻・数学専攻・化学専攻・惑星学専攻などがそれぞれ年度別問題を配布しています。数学専攻の英語は2027年度一般選抜でも筆記試験で、英語過去問は教務学生係での閲覧のみです。物理学専攻はTOEIC L&R公開テストのスコアを使います。学部の第3年次編入学試験は経済学部が別ページで公開しています。\n\n経済学研究科の博士課程前期課程一般選抜は、研究科の入試案内から第Ⅰ期・第Ⅱ期の問題冊子を確認できます。経済理論と統計学は別の科目で、問題冊子の日本語版と英語版は同じ実施回に対応します。版を二つの実施回として数えることはせず、条件や数値の表記が一致するかを照合して使います。経済理論の学習では、消費者の予算制約と端点、生産の費用と操業停止、寡占やゲームの均衡、公共財、金融政策と国際金融を扱います。最終式だけを覚えず、定義したモデルと成立条件を確認し、どの範囲でその式を使えるかを説明する練習が必要です。例えば2026年度第Ⅱ期の一部では、日本語版で許される投入0を英語版の厳密な条件では許さず、最小値を実際に達成できるかが変わります。教材ではこの違いと、所得制約、反応関数の端点、同率の扱いなどを分けて説明します。マクロ経済の論述も、恒等式から直接因果を断定せず、価格や期待、制度の仮定を確かめてから結論へ進みます。2024〜2026年度の第Ⅰ期・第Ⅱ期の経済理論は75頁、同じ6実施回の統計学は71頁の別教材です。統計学では推定や検定、回帰分析の途中計算を、経済理論では個々の行動と均衡や政策の効果を中心に学びます。両科目の問題と教材の対応を先に確かめ、公式問題を併用して復習してください。",
+      "sources": [
+        {
+          "departmentName": "工学研究科 機械工学専攻（博士前期課程）",
+          "url": "http://www.mech.kobe-u.ac.jp/admission.html",
+          "yearRange": "2024〜2026年度・各6科目",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "英語の提出条件は受験年度の工学研究科募集要項で確認。専門科目とは別に評価。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "科目別PDFを公開。2026年度は基礎力学を含み、機械力学・制御工学が1科目。2024・2025年度は機械力学と生産工学・制御工学が別科目。"
+        },
+        {
+          "departmentName": "工学研究科 市民工学専攻（博士前期課程）",
+          "url": "https://www.shimin.eng.kobe-u.ac.jp/examination/master.html",
+          "yearRange": "2023〜2025年度実施分",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "受験年度の工学研究科募集要項で確認。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "大学院入試案内で実施年度別に3年分を掲載。専門科目（二）の構造力学・水理学・土質力学・土木計画学に対応する授業名も案内。"
+        },
+        {
+          "departmentName": "農学研究科 博士課程前期課程",
+          "url": "https://www.ans.kobe-u.ac.jp/jyukensei/siken02.html",
+          "yearRange": "2024〜2026年度",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "受験年度・選抜区分の募集要項で確認。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "年度別の受験専門科目一覧表のリンクから科目別問題を開く。一般選抜第2次募集はWeb掲載なし。来学して教務学生係で借りる場合は閲覧・コピー可、身分証明書が必要。生協の農学過去問掲載は2021年度で終了。"
+        },
+        {
+          "departmentName": "経済学研究科 博士課程前期課程（一般選抜）",
+          "url": "https://www.econ.kobe-u.ac.jp/admission-master",
+          "yearRange": "2024〜2026年度のⅠ期・Ⅱ期（直近3年）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "TOEIC・TOEFL などの英語外部試験のスコア提出。学内での英語筆記試験はない。",
+          "lastConfirmedAt": "2026-11-01",
+          "note": "Ⅰ期（夏に実施。2027年4月入学は2026年8月17日）とⅡ期（2月実施）の問題冊子を年度別に1つのPDFで公開（画像PDF）。科目は経済理論・統計学に加えて回によって経済史があり、2024Ⅱ期・2025Ⅰ期・2025Ⅱ期・2026Ⅰ期の冊子には経済史があるが、2024Ⅰ期と2026Ⅱ期にはない。各科目に同じ実施回の日本語版と英語版を併載しています。設問によって桁処理などの文言に差があるため、両方を照合します。解答例の公開はない。統計学の改訂教材は2024〜2026年度の第Ⅰ期・第Ⅱ期、計6実施回・18大問・71設問を表紙込み71ページに収録します。条件付き分布、推定・検定、回帰分析について、式の成立条件と途中計算を説明します。2025年度第Ⅱ期第3問は和文と英文の桁処理指定の差を、2026年度第Ⅰ期第3問は添字が重なる小標本を区別しています。経済理論とは別の購入単位で、原問題の日本語版・英語版の重複を2回分とは数えません。\n\n経済理論の改訂教材は、2024〜2026年度の第Ⅰ期・第Ⅱ期の全6実施回・24大問・73小問を、表紙込み75頁に収録します。統計学71頁とは別の購入単位です。消費者理論、生産と費用、寡占・ゲーム、公共財、金融政策、国際金融、二期間の労働・消費・貯蓄を扱います。解説は定義と式の成立条件から、制約への代入、式の導出、端点や別解との比較へ進みます。需要と余剰では所得条件、生産では固定費用と操業停止、競争では反応関数の適用範囲を確認してください。2026年度第Ⅱ期第1問の一部は、日本語版の投入条件が非負、英語版が厳密に正となっています。教材では日本語版の条件による主答案と、英語版を文字どおり読む場合の達成されない下限を区別します。どちらの版でも同じ端点の解が得られるとは断定しません。国際金融や金融政策では、厳密な総収益率の式と小さな率の近似、期待と実現値、政策効果に必要な仮定を分けて復習できます。公式の解答例が付属しないため、論述はモデル条件を示した独自の答案例であり、大学の採点基準ではありません。経済史の答案はこの経済理論教材に含みません。",
+          "relatedProductPaths": [
+            "/grad-schools/kobe-university/graduate-school-of-economics/economic-theory",
+            "/grad-schools/kobe-university/graduate-school-of-economics/statistics"
+          ]
+        },
+        {
+          "departmentName": "経済学部 第3年次編入学試験",
+          "url": "https://www.econ.kobe-u.ac.jp/admission-transfer-ug",
+          "yearRange": "2024〜2026（直近3年）",
+          "officialAnswerAvailability": "partial",
+          "englishHandling": "TOEIC・TOEFL などの英語外部試験のスコア提出。学内での英語筆記試験はない。",
+          "lastConfirmedAt": "2026-09-04",
+          "note": "経済学・数学の2科目を年度別に公開（画像PDF）。2024年度分には解答例が付くが、大学ページに「2025年度分より、解答例に代わり“出題意図”を開示します」と明記があり、2025・2026年度分は出題意図のみ。",
+          "relatedProductPaths": [
+            "/grad-schools/kobe-university/faculty-of-economics/economics",
+            "/grad-schools/kobe-university/faculty-of-economics/mathematics"
+          ]
+        },
+        {
+          "departmentName": "理学研究科 物理学専攻（修士）",
+          "url": "http://www.phys.sci.kobe-u.ac.jp/kakomon/kakomon-grad.html",
+          "yearRange": "2016〜2025年の物理I・物理II（実施年で表記）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年度一般選抜はTOEIC L&R公開テスト。Listening：Readingを1：3で評価し、筆記試験日から過去2年以内のスコアが有効。TOEIC IP・TOEFLは不可。2028年度入試（2027年10月入学を含む）から提出期限は出願期間最終日。",
+          "lastConfirmedAt": "2026-10-28",
+          "note": "物理I（120分・問I〜III）と物理II（問I〜III）を実施年ごとにPDFで掲載。公式解答は非公開。ページの年表記は年度ではなく実施年（例: 2025年＝2025年8月実施）。",
+          "relatedProductPath": "/grad-schools/kobe-university/graduate-school-of-science/physics"
+        },
+        {
+          "departmentName": "理学研究科 数学専攻",
+          "url": "https://www.math.kobe-u.ac.jp/home-j/inshi-kakomon.html",
+          "yearRange": "2015〜2026年度（数学IIは2020年度に出題傾向変更）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年度一般選抜は30分の英語筆記試験で、辞書持ち込み不可。英語過去問はWeb非公開で、理学研究科教務学生係での閲覧のみ。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "数学専攻サイト「過去の入試問題」ページに2015〜2026年度のPDFを掲載。英語は非公開。生協のコピーサービスも利用可。",
+          "relatedProductPath": "/grad-schools/kobe-university/graduate-school-of-science/mathematics"
+        }
+      ]
+    },
+    {
+      "slug": "chiba-university",
+      "fullName": "千葉大学",
+      "shortName": "千葉大",
+      "searchTitle": "千葉大の院試過去問・解答｜16コースと数学1998〜2026年度",
+      "searchDescription": "千葉大融合理工学府16コースの公式問題・解答例・出題意図を案内。数学1998〜2026年度の公式問題、A0・A1の無料解答、生物の閲覧条件も確認できます。数学の公式解答は非公開です。",
+      "updatedAt": "2026-10-16",
+      "intro": "千葉大学大学院融合理工学府は、博士前期課程5専攻16コースの2025年度実施分以降について、試験問題・解答例・出題意図をコース別に公開しています。公式解答例の公開範囲はコース・科目により異なります。院試hubが販売する情報科学、数学・情報数理学、物理学の教材は、過去問の解答・解説集です。問題本文・大学公式の解答例・公式図表を収録していません。",
+      "sources": [
+        {
+          "departmentName": "融合理工学府 博士前期課程（5専攻・16コース）",
+          "url": "https://www.se.chiba-u.jp/admission/past/1st_dr/index.html",
+          "yearRange": "2025年度実施分以降",
+          "officialAnswerAvailability": "partial",
+          "englishHandling": "2027年4月一般の外部スコアは原則2024年6月〜2026年5月末。数学は筆記・スコア・両方から選択、地球科学は当日ITP。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "融合理工学府の公式入口。博士前期課程5専攻16コースについて、原則として2025年度実施分以降の入学試験問題、解答例（1例）、出題意図をコース別に掲載。受験者がいなかった場合などは掲載されないことがある。解答例の公開範囲は各コース・科目で異なる。"
+        },
+        {
+          "departmentName": "融合理工学府 情報科学コース",
+          "url": "https://www.se.chiba-u.jp/admission/past/1st_dr/aci.html",
+          "yearRange": "2025年10月入学／2026年4月入学",
+          "officialAnswerAvailability": "full",
+          "englishHandling": "2027年4月一般は外部スコアを出願時に提出。受験有効期間は2024年6月〜2026年5月末。情報科学は工学系でHome Edition不可。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "公式ページで情報科学コース専門科目の試験問題PDF、解答例PDF、出題意図PDFを公開。販売PDFには問題本文・公式解答例・公式図表を転載しない。",
+          "relatedProductPath": "/grad-schools/chiba-university/graduate-school-of-science-and-engineering/information-science"
+        },
+        {
+          "departmentName": "融合理工学府 数学・情報数理学コース",
+          "url": "https://www.se.chiba-u.jp/admission/past/1st_dr/mi.html",
+          "yearRange": "2025年10月入学／2026年4月入学",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年4月一般は60分の筆記・外部スコア・両方の高得点から出願時に選択。両方を選び筆記欠席は失格。理学系でHome Edition可。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "公式ページで数学・情報数理学コースの専門科目・英語の試験問題PDFと出題意図PDFを公開（解答例については公表を差し控えると明記、口頭試問は出題意図のみ）。掲載分より前の専門科目の試験問題はコースのウェブサイトに掲載と案内。販売PDFには問題本文を転載しない。",
+          "relatedProductPath": "/grad-schools/chiba-university/graduate-school-of-science-and-engineering/mathematics-informatics-specialized-a"
+        },
+        {
+          "departmentName": "融合理工学府 物理学コース",
+          "url": "https://www.se.chiba-u.jp/admission/past/1st_dr/physics.html",
+          "yearRange": "2025年10月入学／2026年4月入学",
+          "officialAnswerAvailability": "full",
+          "englishHandling": "2027年4月一般は外部スコアを出願時に提出し英語200点。受験有効期間は2024年6月〜2026年5月末。物理は理学系でHome Edition可。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "公式ページで物理学コース専門科目（1）（2）の試験問題PDF、解答例PDF、出題意図PDFを公開（口頭試問は出題意図のみ）。販売PDFには問題本文・公式解答例・公式図表を転載しない。",
+          "relatedProductPath": "/grad-schools/chiba-university/graduate-school-of-science-and-engineering/physics"
+        }
+      ]
+    },
+    {
+      "slug": "tokyo-metropolitan-university",
+      "updatedAt": "2026-10-17",
+      "searchTitle": "都立大 院試 過去問｜数理・物理・情報科学の公式問題と解答解説",
+      "searchDescription": "東京都立大の大学院過去問を専攻・入学年度・夏季冬季から探せます。2026年度物理の構成、出題意図の内容、旧年度の閲覧・郵送請求、解説集を案内。",
+      "fullName": "東京都立大学",
+      "shortName": "都立大",
+      "intro": "東京都立大学は理学研究科の各専攻が独自に博士前期課程の過去問を公開しています。物理学専攻・数理科学専攻は夏季・冬季の問題を専攻のサイトで配布。システムデザイン研究科は情報科学域などの試験問題と出題意図を研究科ページで公開しています。",
+      "sources": [
+        {
+          "departmentName": "理学研究科 物理学専攻（博士前期）",
+          "url": "https://www.phys.se.tmu.ac.jp/?page_id=46",
+          "yearRange": "2024〜2026（夏季・冬季）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "物理の公式過去問ページではTOEIC公開テスト・TOEFL-iBT・IELTS Academicのスコア評価を案内。出願年度の条件は募集要項を確認。",
+          "lastConfirmedAt": "2026-10-17",
+          "note": "2024〜2026年度の夏季・冬季の問題を掲載。2026年度は物理学I・IIが各2問で、公式一覧の試験時間は夏季が各120分、冬季が各60分。2025年度以前の数学・物理学Iという構成とは異なる。2026年度冬季の出題意図は評価する知識・考え方の説明で、計算結果や導出式はない。",
+          "relatedProductPath": "/grad-schools/tokyo-metropolitan-university/graduate-school-of-science/physics"
+        },
+        {
+          "departmentName": "理学研究科 数理科学専攻",
+          "url": "https://math.fpark.tmu.ac.jp/exam.html",
+          "yearRange": "2022〜2026年度（夏季・冬季）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年度冬季は当日の英語筆記（11:50〜12:40、40点満点）。",
+          "lastConfirmedAt": "2026-10-17",
+          "note": "博士前期課程の数学の過去問を、入学年度と夏季・冬季から選んで開けます。2027年度冬季の英語は当日の筆記試験で、外部スコアによる評価ではありません。",
+          "relatedProductPath": "/grad-schools/tokyo-metropolitan-university/graduate-school-of-science/mathematics"
+        },
+        {
+          "departmentName": "システムデザイン研究科 情報科学域",
+          "url": "https://www.sd.tmu.ac.jp/entrance/postgraduate/12079.html",
+          "yearRange": "2025年度冬季、2026年度夏季・冬季",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "募集要項・年度別案内を確認。",
+          "lastConfirmedAt": "2026-10-17",
+          "note": "情報科学域の2025年度冬季、2026年度夏季・冬季の問題と出題意図を公開。2025・2026年度の問題は窓口・郵送でも配布し、配布分より古い年度は窓口閲覧。資料請求案内に模範解答なしと明記。",
+          "relatedProductPath": "/grad-schools/tokyo-metropolitan-university/graduate-school-of-systems-design/information-science"
+        },
+        {
+          "departmentName": "理学部・大学院理学研究科（共通入口）",
+          "url": "https://www.se.tmu.ac.jp/entrance_exam.html",
+          "yearRange": "各専攻ページに依存",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "TOEFL/TOEIC スコア提出が主。詳細は専攻別。",
+          "lastConfirmedAt": "2026-06-03",
+          "note": "理学研究科の入試情報共通ページ。各専攻ページへの導線をまとめています。"
+        }
+      ]
+    },
+    {
+      "slug": "osaka-metropolitan-university",
+      "updatedAt": "2026-10-16",
+      "searchTitle": "大阪公立大の院試過去問｜現在の入手方法・解答解説",
+      "searchDescription": "大阪公立大学の通常サイトが閲覧できない間の過去問入手方法。理学6専攻の閲覧・コピー窓口、数学の英語と地球学の完全版、工学の案内状況、数学・物理の解答解説を確認できます。",
+      "fullName": "大阪公立大学",
+      "shortName": "大阪公立大",
+      "intro": "大阪公立大学は大阪府立大と大阪市立大が統合した大学です。2026年10月16日現在、通常サイトは臨時サイトへ転送され、数学・物理の過去問ページは閲覧できません。理学研究科は数学・物理学・化学・生物学・地球学・生物化学の2024〜2026年度分を案内し、障害中は杉本キャンパス入試課で閲覧・コピーできます。工学研究科の入手方法の案内は準備中です。",
+      "sources": [
+        {
+          "departmentName": "理学研究科 数学専攻（博士前期）",
+          "url": "https://www.omu.moe/news/2026-10-09-c915e47f.html",
+          "yearRange": "2024〜2026（理学研究科の閲覧方法PDFの案内範囲）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年度一般の第1次はTOEIC680点・TOEFL70点による英語筆記免除。第2次は外部スコア提出不要。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "通常の過去問ページは現在閲覧不可。杉本キャンパス入試課で閲覧・コピー。英語の郵送は現在の対応を電話で確認してください。",
+          "relatedProductPath": "/grad-schools/osaka-metropolitan-university/graduate-school-of-science/mathematics"
+        },
+        {
+          "departmentName": "理学研究科 物理学専攻",
+          "url": "https://www.omu.moe/news/2026-10-09-c915e47f.html",
+          "yearRange": "2024〜2026（理学研究科の閲覧方法PDFの案内範囲）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年度一般はTOEIC785点・TOEFL72点を満点換算の基準とし、英語50点。第1次・第2次で有効受験期間が異なります。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "通常の過去問ページは現在閲覧不可。杉本キャンパス入試課で閲覧・コピー。博士前期・後期と募集回を指定して確認してください。",
+          "relatedProductPath": "/grad-schools/osaka-metropolitan-university/graduate-school-of-science/physics"
+        }
+      ]
+    },
+    {
+      "slug": "hiroshima-university",
+      "updatedAt": "2026-10-17",
+      "fullName": "広島大学",
+      "shortName": "広島大",
+      "intro": "広島大学は理学・工学が統合された先進理工系科学研究科に再編されており、博士課程前期の過去問ページに数学・物理・化学から機械・電気・建築・情報科学・量子物質まで主要プログラムが集約されています。数学の2025年8月分は出題意図のみ、物理の同回と情報科学の2026年1月分は解答例も掲載されています。実施年と入学年度、一般A・Bの区別に合わせて探せます。",
+      "sources": [
+        {
+          "departmentName": "先進理工系科学研究科 数学プログラム",
+          "url": "https://www.hiroshima-u.ac.jp/adse/exam_math",
+          "yearRange": "2019〜2025年度実施",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-10-17",
+          "note": "2025年8月の一般Aは出題意図のみで、各小問の計算結果・証明は掲載されていません。2019〜2024年度実施分にもこの一覧で解答例の掲載はありません。試験実施年と入学年度を区別してください。",
+          "relatedProductPath": "/grad-schools/hiroshima-university/graduate-school-of-advanced-science-and-engineering/mathematics"
+        },
+        {
+          "departmentName": "先進理工系科学研究科 物理学プログラム",
+          "url": "https://www.hiroshima-u.ac.jp/adse/exam_physics",
+          "yearRange": "2019〜2025年度実施",
+          "officialAnswerAvailability": "partial",
+          "lastConfirmedAt": "2026-10-17",
+          "note": "2025年8月の一般Aは出題意図・解答例を掲載。力学では運動方程式から固有振動数までの計算があります。2019〜2024年度実施分にはこの一覧で解答例の掲載はありません。2025年度の問題PDFには補足説明もあります。",
+          "relatedProductPath": "/grad-schools/hiroshima-university/graduate-school-of-advanced-science-and-engineering/physics"
+        },
+        {
+          "departmentName": "先進理工系科学研究科 工学系・情報科学プログラム",
+          "url": "https://www.hiroshima-u.ac.jp/adse/admission/m_admission/m_examinations",
+          "yearRange": "2020〜2026年実施（プログラムにより異なる）",
+          "officialAnswerAvailability": "partial",
+          "lastConfirmedAt": "2026-10-17",
+          "note": "情報科学の2026年1月一般B・2025年8月一般Aは問題と解答例等を配布。2026年1月の専門Ⅰには解答過程を省略した旨があり、すべての途中式を読める資料ではありません。2024年以前の問題も掲載されています。英語の条件は受験する選抜の募集要項で確認してください。",
+          "relatedProductPath": "/grad-schools/hiroshima-university/graduate-school-of-advanced-science-and-engineering/information-science-specialized-subjects"
+        },
+        {
+          "departmentName": "全学共通（大学院入試過去問題の閲覧）",
+          "url": "https://www.hiroshima-u.ac.jp/nyushi/daigakuin_senkouka/etsuran_daigakuin",
+          "yearRange": "各研究科ページに依存",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "TOEFL/TOEIC スコア提出が主。詳細は研究科別。",
+          "lastConfirmedAt": "2026-06-03",
+          "note": "全学的な大学院入試過去問題の閲覧案内。閲覧方法（来訪・郵送）について明示されています。"
+        }
+      ]
+    },
+    {
+      "slug": "ryukyu-university",
+      "fullName": "琉球大学",
+      "shortName": "琉大",
+      "intro": "琉球大学大学院の物理系は、物理系公式サイトで大学院入試の専門問題を長期にわたり公開しています。直近年度も力学・電磁気学・量子力学・熱力学・統計力学から4大問を課す構成で、問題PDFは入手できますが、公式解答例は公開されていません。",
+      "sources": [
+        {
+          "departmentName": "理工学研究科 物質地球科学専攻・物理系",
+          "url": "http://www.phys.u-ryukyu.ac.jp/gakunai/inshi.html",
+          "yearRange": "1999〜2026年実施分（2027年度入試まで）",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-09-05",
+          "note": "物理系公式サイトに実施年月別の問題PDFを掲載。2024年8月、2025年8月、2026年8月実施分はいずれも専門（物理）4大問で、解答例は非公開。院試hubの商品は2025〜2027年度の3年分を収録する。",
+          "relatedProductPath": "/grad-schools/ryukyu-university/graduate-school-of-engineering-and-science-materials-earth-sciences/physics"
+        }
+      ]
+    },
+    {
+      "slug": "shizuoka-university",
+      "updatedAt": "2026-10-17",
+      "searchTitle": "静岡大 院試 過去問｜理学・情報学のPDFと工学の閲覧方法",
+      "searchDescription": "静岡大学大学院の理学5コースと情報学CS・BI・IDの問題PDF、工学の過去問閲覧場所を案内。2024〜2026年度の区分、公式解答の扱い、数学・CSの解説集を確認できます。",
+      "fullName": "静岡大学",
+      "shortName": "静大",
+      "intro": "静岡大学の大学院過去問は専攻ごとに入手先が分かれています。工学は浜松・静岡の窓口と閲覧室で過去問を閲覧できます。理学は数学等5コースの一般・2次募集、情報学はCS・BI・IDのプログラム別問題を公開し、公式解答は非公開です。数学は外部英語スコア不要でも英語で解答する問題があり、情報学は外部英語スコアを使います。",
+      "sources": [
+        {
+          "departmentName": "総合科学技術研究科 工学専攻",
+          "url": "https://www.eng.shizuoka.ac.jp/news/news/2026/00715/file/1686/r9kogaku_master.pdf#page=20",
+          "yearRange": "2027年度募集要項に過去問の閲覧場所を掲載（閲覧可能年度は要確認）",
+          "lastConfirmedAt": "2026-10-17",
+          "note": "募集要項16ページは、工学部教務係（浜松）と入試情報閲覧室（静岡キャンパス共通教育A棟4階）での過去問閲覧を案内。郵送請求の説明は募集要項が対象。解答例の閲覧可否・問題の郵送はこの案内では確認できない。"
+        },
+        {
+          "departmentName": "総合科学技術研究科 情報学専攻（情報科学 CS）",
+          "url": "https://www.inf.shizuoka.ac.jp/graduate_info/exam/",
+          "yearRange": "2020〜2026年度（2021・2022年度はレポート問題。2020年度CSは情報科学基礎・情報科学）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年4月入学・一般入試はTOEIC L&R（IP含む、2023年4月1日以降）、TOEFL iBT（Home Edition含む）・IELTS Academic（2024年8月1日以降）の1種類を出願時に提出。英語配点300点。",
+          "lastConfirmedAt": "2026-10-17",
+          "note": "公式一覧はCS・BI・ID別に公開。解答例は非公開で、出題資料の一部はWebに掲載されません。院試Hubの解説は2019〜2026年度のCSを対象とし、BI・IDは収録しません。2027一般CSは120分で5分野から3つを選択します。",
+          "relatedProductPath": "/grad-schools/shizuoka-university/graduate-school-of-integrated-science-and-technology/computer-science"
+        },
+        {
+          "departmentName": "総合科学技術研究科 理学専攻（数学コース）",
+          "url": "https://www.sci.shizuoka.ac.jp/exam/gr_exam/past_question",
+          "yearRange": "2024〜2026年度入試（各年度とも一般入試＋一般入試2次募集の筆記試験（専門）を公開）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年度一般入試の数学は外部英語スコア不要。ただし専門4問のうち1問は英語を理解し英語で解答します。他の理学4コースは外部英語50点で、情報学とはTOEFL・IELTSの有効日付も異なります。",
+          "lastConfirmedAt": "2026-10-17",
+          "note": "数学・物理学・化学・生物科学は2024〜2026年度、地球科学は2026年度の筆記問題をWeb公開。地球科学の2024・2025年度は理学部学務係で閲覧。正解解答例と口述設問は窓口を含め非公開です。院試Hubの数学解説は2023〜2025年度一般・2次と2026年度2次の計7実施回で、2026年度一般は未収録。2027一般の数学は180分、専門100点・口述200点です。",
+          "relatedProductPath": "/grad-schools/shizuoka-university/graduate-school-of-integrated-science-and-technology/mathematics"
+        }
+      ]
+    },
+    {
+      "slug": "tokyo-university-of-agriculture-and-technology",
+      "updatedAt": "2026-10-16",
+      "fullName": "東京農工大学",
+      "shortName": "農工大",
+      "searchTitle": "農工大の院試過去問｜工学府の公式問題・解答解説",
+      "searchDescription": "東京農工大学工学府の公式過去問は2024〜2026年度の6専攻を公開し、数学と専門科目を分け、R8は筆答試験の解答例も掲載しています。",
+      "intro": "東京農工大学の工学府博士前期課程は2024〜2026年度（R6〜R8）の過去問を公開しています。生命工学、生体医用システム工学、応用化学、化学物理工学、機械システム工学、知能情報システム工学の6専攻から選べます。数学と専門科目は別PDFで、R8には筆答試験の解答例も掲載されています。院試hubの解答・解説集は知能情報システム工学専攻の専門科目だけを扱い、共通数学や他専攻は収録していません。",
+      "sources": [
+        {
+          "departmentName": "工学府 博士前期課程（6専攻）",
+          "url": "https://web.tuat.ac.jp/~tkakomon/",
+          "yearRange": "2024〜2026年度（R6〜R8）",
+          "officialAnswerAvailability": "partial",
+          "englishHandling": "英語や出願要件は年度別の募集要項で確認。公式過去問ページは数学・専門科目PDFを年度別に公開。",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "R8の共通数学は生体医用システム工学・化学物理工学・機械システム工学・知能情報システム工学に掲載。専門科目の問題・解答例と口述試験の評価の観点も専攻ごとに掲載されています。院試hubの解答・解説集は知能情報システム工学の専門科目が対象で、共通数学や他専攻は含みません。",
+          "relatedProductPath": "/grad-schools/tokyo-university-of-agriculture-and-technology/graduate-school-of-engineering/intelligent-information-systems-engineering-specialized-subjects"
+        }
+      ]
+    },
+    {
+      "slug": "kyushu-institute-of-technology",
+      "updatedAt": "2026-10-16",
+      "searchTitle": "九工大の院試過去問｜工学・情報・生命体の公式問題と解答",
+      "searchDescription": "九州工業大学大学院の公式過去問を学府・研究科、実施年度、募集回から選べます。情報・工学は2024〜2025年度実施分、生命体は2022〜2025年度実施分。知能情報のDFA・非正規性を全4小問解説しています。",
+      "fullName": "九州工業大学",
+      "shortName": "九工大",
+      "intro": "九州工業大学の院試過去問は、工学府・情報工学府・生命体工学研究科ごとに公開されています。工学府と情報工学府は2024〜2025年度実施分に問題・解答例・出題意図があり、生命体工学研究科は2022〜2025年度実施分の問題を掲載しています。年度や科目によって解答の公開範囲が異なります。",
+      "sources": [
+        {
+          "departmentName": "情報工学府（博士前期課程）",
+          "url": "https://www.kyutech.ac.jp/examination/entry-11283.html",
+          "yearRange": "2024〜2025年度（令和6〜7年度）実施分・第1次募集",
+          "officialAnswerAvailability": "full",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "博士前期課程・一般選抜【学力検査(筆記)】の問題・解答例・出題意図を科目別PDFで公開。共通科目（数学・情報基礎）と専門科目（知能情報工学・情報・通信工学・知的システム工学・物理情報工学・生命化学情報工学）の計24科目を掲載。掲載された2024・2025年度実施分では、第2次募集・外国人留学生特別選抜の筆記試験を実施していないと案内。今後の選抜方式は該当年度の募集要項で確認。",
+          "relatedProductPaths": [
+            "/grad-schools/kyushu-institute-of-technology/graduate-school-of-computer-science-and-systems-engineering/information-and-communications-engineering",
+            "/grad-schools/kyushu-institute-of-technology/graduate-school-of-computer-science-and-systems-engineering/information-fundamentals",
+            "/grad-schools/kyushu-institute-of-technology/graduate-school-of-computer-science-and-systems-engineering/intelligent-informatics",
+            "/grad-schools/kyushu-institute-of-technology/graduate-school-of-computer-science-and-systems-engineering/intelligent-systems-engineering",
+            "/grad-schools/kyushu-institute-of-technology/graduate-school-of-computer-science-and-systems-engineering/life-and-chemical-informatics-engineering",
+            "/grad-schools/kyushu-institute-of-technology/graduate-school-of-computer-science-and-systems-engineering/mathematics",
+            "/grad-schools/kyushu-institute-of-technology/graduate-school-of-computer-science-and-systems-engineering/physical-informatics-engineering"
+          ]
+        },
+        {
+          "departmentName": "工学府（博士前期課程）",
+          "url": "https://www.kyutech.ac.jp/examination/entry-11275.html",
+          "yearRange": "2024〜2025年度実施分・第1回／第2回",
+          "officialAnswerAvailability": "full",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "第1回／一般型は9分野の問題・解答例・出題意図を掲載。掲載年度の第2回は建築学・国土デザイン・宇宙システム工学・電気エネルギー工学・電子システム工学が対象で、知能制御工学・機械工学・応用化学・マテリアル工学は未実施。"
+        },
+        {
+          "departmentName": "生命体工学研究科（博士前期課程）",
+          "url": "https://www.kyutech.ac.jp/examination/entry-11276.html",
+          "yearRange": "2022〜2025年度実施分・第2回",
+          "officialAnswerAvailability": "partial",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "2024・2025年度実施分は問題・解答例・出題意図、2022・2023年度実施分は問題のみ。2024年度実施の電気・電子回路の行にはPDFリンクがない。科目番号と募集回は年度別の一覧で確認。"
+        }
+      ]
+    },
+    {
+      "slug": "nagoya-institute-of-technology",
+      "updatedAt": "2026-10-16",
+      "fullName": "名古屋工業大学",
+      "shortName": "名工大",
+      "searchTitle": "名工大の院試過去問｜公式2025〜2027年度・解答解説",
+      "searchDescription": "名工大大学院の公式過去問は2025〜2027年度を公開し、2026・2027年度は解答例・出題意図も掲載しています。",
+      "intro": "名古屋工業大学は大学院工学研究科（博士前期課程）の専門試験問題を、入試課の「入学試験過去問題」ページで全系・全プログラムまとめて公開しています。2025〜2027年度の問題PDFが年度別に一覧化され、2026・2027年度は解答例・出題意図もオンライン公開、2025年度の解答例は入試課窓口または郵便で請求できる体制です。",
+      "sources": [
+        {
+          "departmentName": "工学研究科（博士前期課程）",
+          "url": "https://www.nitech.ac.jp/examination/in/test.html",
+          "yearRange": "2025〜2027年度",
+          "officialAnswerAvailability": "partial",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "生命・応用化学系〜社会工学系の全プログラム専門試験問題を年度別に掲載（応用物理・材料機能・機械工学・情報工学系を含む）。解答例・出題意図は2026・2027年度分をプログラム別PDFで公開、2025年度分は入試課窓口又は郵便で請求（出題意図なし）。情報工学系はネットワーク・知能情報・メディア情報・情報数理の4プログラム共通の1冊。販売PDFには問題本文・公式解答例を転載しない。",
+          "englishHandling": "2027年度一般選抜はTOEIC L&RまたはTOEFL iBTを100点満点に換算。TOEIC IP・TOEFL ITPは不可。TOEICは公式認定証原本かデジタル認定証の印刷、TOEFLはETSから出願期間中に直送（コード8549、MyBest不可）。専門300点・面接等と合わせて判定。",
+          "relatedProductPaths": [
+            "/grad-schools/nagoya-institute-of-technology/graduate-school-of-engineering/applied-physics",
+            "/grad-schools/nagoya-institute-of-technology/graduate-school-of-engineering/information-engineering",
+            "/grad-schools/nagoya-institute-of-technology/graduate-school-of-engineering/materials-function-program",
+            "/grad-schools/nagoya-institute-of-technology/graduate-school-of-engineering/mechanical-engineering"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "waseda-university",
+      "updatedAt": "2026-10-17",
+      "fullName": "早稲田大学",
+      "shortName": "早稲田",
+      "searchTitle": "早稲田の院試過去問｜公式2024〜2027年度・解答解説",
+      "searchDescription": "早稲田大学の公式過去問を2024〜2027年度から探す。理工3研究科19専攻の2027年度問題へ直接案内。2026年度の基幹理工6専攻の公式資料は評価観点のみで、計算結果・途中式は非掲載。院試Hubの解説集との違いを説明します。",
+      "intro": "早稲田大学の大学院過去問は、入学センターで研究科・課程・年度別に公開されています。理工3研究科の2027年度問題と2026年度の評価資料を案内し、院試Hubの基幹理工3専攻の解説集・無料の年度別解答例へ進めます。",
+      "sources": [
+        {
+          "departmentName": "基幹理工学研究科（修士課程）",
+          "url": "https://www.waseda.jp/inst/admission/graduate/past_test/",
+          "yearRange": "2024〜2027年度（現行一覧。大学は過去3年分の公開と案内）",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-10-17",
+          "note": "入学センターの現行一覧は2024〜2027年度を掲載し、大学は過去3年分を公開すると案内。著作権処理の都合でマスクされた問題や公開が遅れる問題がある。2026年度の基幹・創造・先進理工学研究科は、修士一般・飛び級入試の専門科目について19専攻の「出題の意図」「解答例（解答のポイント）」を理工学術院サイトで公開。確認した2026年度の基幹理工6専攻のPDFは各1ページの評価観点で、各小問の計算結果・途中式は掲載なし。2027年度ページの解答資料見出しには確認時点でリンクなし。",
+          "englishHandling": "2026年9月・2027年4月入学の一般入試はTOEIC L&R550点、TOEFL iBT旧57点/新3.5、IELTS Academic5.5のいずれかが出願資格。出願開始日の2年前以降の成績を使う。国内TOEICは電子送付と認定証PDF印刷の両方を提出。IP・Home Edition・MyBest・IELTS Online・One Skill Retakeは不可。飛び級は別基準。",
+          "relatedProductPaths": [
+            "/grad-schools/waseda-university/graduate-school-of-fundamental-science-and-engineering/computer-science-and-communications-engineering",
+            "/grad-schools/waseda-university/graduate-school-of-fundamental-science-and-engineering/mathematics-and-applied-mathematics",
+            "/grad-schools/waseda-university/graduate-school-of-fundamental-science-and-engineering/mechanical-and-aerospace-engineering"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "kanazawa-university",
+      "updatedAt": "2026-10-17",
+      "searchTitle": "金沢大 院試 過去問｜自然科学研究科の公式問題・解答例と数学解説",
+      "searchDescription": "金沢大学大学院自然科学研究科の2024〜2026年度一般選抜の問題・公式解答例。数学コースと工学系の共通数学を分け、解答例の内容と解説集を案内。",
+      "fullName": "金沢大学",
+      "shortName": "金沢大",
+      "intro": "金沢大学は自然科学研究科が研究科サイトの「入試過去問題」ページで、博士前期課程一般選抜の問題を過去3年分まとめて公開しています。数物科学・物質化学・機械科学などの専攻・コースごとに問題と解答例を選べます。数学コースの問題と、工学系の共通数学は別冊です。特別選抜の問題と4年以上前の問題は非公開です。",
+      "sources": [
+        {
+          "departmentName": "自然科学研究科 数物科学専攻（数学コース）",
+          "url": "https://www.nst.kanazawa-u.ac.jp/admission/exam",
+          "yearRange": "2024〜2026年度（直近3年分）",
+          "officialAnswerAvailability": "full",
+          "lastConfirmedAt": "2026-10-17",
+          "note": "博士前期課程一般選抜の問題を過去3年分公開。数学コースは問題と解答例を年度別に掲載。2026年度の解答例は3ページで6大問の結果・略証・方針を含み、一部の証明は定義に基づくよう指示するだけで導出を省いている。特別選抜の問題および4年以上前の問題は非公開で、著作権の関係で一部掲載されていない問題あり。",
+          "relatedProductPath": "/grad-schools/kanazawa-university/graduate-school-of-natural-science-and-technology/mathematical-and-physical-sciences-mathematics"
+        }
+      ]
+    },
+    {
+      "slug": "kumamoto-university",
+      "updatedAt": "2026-10-17",
+      "searchTitle": "熊本大 院試 過去問｜数学の公式解答と自然科学教育部の配布先",
+      "searchDescription": "熊本大学大学院自然科学教育部の2026年度公式問題・解答例・出題意図。数学の第1期専門・専門基礎・第2期、2025年度以前の郵送請求を案内。",
+      "fullName": "熊本大学",
+      "shortName": "熊本大",
+      "intro": "熊本大学は理学・工学系の大学院が自然科学教育部に統合されており、過去の入試問題は教育部公式サイトに推薦・一般第1期・一般第2期・外国人留学生・博士後期の選抜区分別で掲載されます。掲載は直近年度分ですが、理学専攻数学コースは一般入試第1期・第2期とも問題・解答例・出題意図を公開しています。2025年度以前の問題は学外から郵送請求でき、教育部の案内では依頼文と返信用レターパックライトを指定しています。",
+      "sources": [
+        {
+          "departmentName": "自然科学教育部 理学専攻 数学コース（博士前期）",
+          "url": "https://www.fast.kumamoto-u.ac.jp/gsst/pastexamquestions/",
+          "yearRange": "2026年度（掲載は直近年度分。2025年度以前は郵送請求）",
+          "officialAnswerAvailability": "partial",
+          "lastConfirmedAt": "2026-10-17",
+          "note": "自然科学教育部の公式ページで2026年度入試の資料を選抜区分別（推薦・一般第1期・一般第2期・外国人留学生・博士後期）に掲載。数学コースは一般入試第1期（専門・専門基礎）・第2期とも問題・解答例・出題意図のPDFを公開（一義的な解答が示せない問題は出題意図のみ）。第2期で問題・解答例まで公開されるのは数学コースのみ。2025年度以前分は解答例なし。学外からの請求は教育部の入試情報ページで、希望コース等を記した依頼文と宛先記入済みレターパックライトの送付を案内。",
+          "relatedProductPath": "/grad-schools/kumamoto-university/graduate-school-of-science-and-technology/mathematics"
+        }
+      ]
+    },
+    {
+      "slug": "kyoto-institute-of-technology",
+      "fullName": "京都工芸繊維大学",
+      "shortName": "京都工繊大",
+      "updatedAt": "2026-10-16",
+      "searchTitle": "京都工芸繊維大学の院試過去問・解答｜専攻・期・年度別",
+      "searchDescription": "京都工繊大の博士前期一般入試2024〜2026年度の公式問題を、専攻・第I期・第III期から探せます。2026年度は解答例・出題意図と口述概要も公開。博士後期の配布先と情報工学の無料解説も案内。",
+      "intro": "京都工芸繊維大学の博士前期課程・一般入試は、2024〜2026年4月入学向けの公式問題が公開されています。第I期は化学4専攻・機械2専攻の共通問題を含む8冊、第III期は情報工学・デザイン学の2冊です。2026年4月入学向け（2025年度実施）から解答例・出題意図と口述概要も掲載。博士後期課程も2025年度実施分は公開されています。",
+      "sources": [
+        {
+          "departmentName": "工芸科学研究科 博士前期課程・一般入試（専攻別）",
+          "url": "https://www.kit.ac.jp/test_index/gs_news/past-q/",
+          "yearRange": "2024〜2026年4月入学向け（2023〜2025年度実施）",
+          "officialAnswerAvailability": "partial",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "第I期は12専攻8冊、第III期は情報工学とデザイン学の2冊。2026年度は解答例・出題意図つき、2024・2025年度は問題のみ。2026年度の口述概要は期別PDF。著作権等で非掲載の問題あり。院試hubの販売教材は情報工学の第I・III期6回分。",
+          "relatedProductPath": "/grad-schools/kyoto-institute-of-technology/graduate-school-of-science-and-technology/information-engineering"
+        },
+        {
+          "departmentName": "工芸科学研究科 博士後期課程・一般入試",
+          "url": "https://www.kit.ac.jp/test_index/gs_news/past-q/ippan2025_d/",
+          "yearRange": "2025年度実施分",
+          "officialAnswerAvailability": "partial",
+          "lastConfirmedAt": "2026-10-16",
+          "note": "専攻別の試験問題・解答例・出題意図と口述概要を公開。2023・2024年度実施分は公式一覧で非公開。出願者がない専攻などには問題の掲載がない。"
+        }
+      ]
+    },
+    {
+      "slug": "niigata-university",
+      "fullName": "新潟大学",
+      "shortName": "新潟大",
+      "intro": "新潟大学大学院自然科学研究科は、研究科の入試情報ページに博士前期課程の過去問題を年度別に集約しており、数理物質科学専攻をはじめ各専攻・コースの専門科目PDFを第1次募集・第2次募集の区分で配布しています。引用文献等を含む設問はWeb非公開となり、自然科学研究科事務室学務係の窓口閲覧に切り替わる運用が特徴です。法学部の第3年次編入学試験は、法学部の入試情報ページに専門科目の問題を公開しています。2025・2026年度入学の各回は4設問から2設問を選ぶ形式で、教材には選択対象の全8設問・小問10を収録しています。2026年度は法と感情、夫婦同氏制、借家契約の更新、正当防衛、2025年度はソフトロー、集会の自由、過失責任と無過失責任、刑法の因果関係を扱います。答案では問いに対する結論を示し、制度の趣旨や条文の要件を説明して、事案への当てはめにつなげてください。判例を使う場合は、結論だけを写さず、どの事実を考慮した判断なのかを整理すると別の事例にも応用できます。法改正や裁判時点にも注意し、出題当時の法令と現在の制度を分けて復習します。院試Hubの解答は独自の答案例で、大学公認の模範答案ではありません。外国語科目はこの法学教材の収録対象外です。公式問題を読む際は設問が求める説明と事例への判断を区別し、選んだ2設問に十分な時間を配分する練習も行ってください。",
+      "sources": [
+        {
+          "departmentName": "自然科学研究科 数理物質科学専攻 数理科学コース",
+          "url": "https://www.gs.niigata-u.ac.jp/~gsweb/admission/index.html",
+          "yearRange": "平成29〜令和5年度（2017〜2023相当。令和3年度は筆記試験実施なし）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "一般選抜の外国語［英語］はTOEICまたはTOEFL（iBT・改訂版ペーパー・ITP）のスコアシート提出に基づき評価（研究科公式案内PDFに明記）。",
+          "lastConfirmedAt": "2026-09-05",
+          "note": "入試情報ページから年度別の過去問題ページへ辿る構成で、専攻・コース別の専門科目PDFを第1次募集・第2次募集の区分ごとに掲載。数理科学コースの専門科目は科目コードA3で、平成29〜令和5年度の第1次・第2次募集分を確認できる（令和3年度は筆記試験の実施なし）。令和6年度以降の年度別ページは未公開。引用文献等を含む設問はWeb非公開で、事務室学務係窓口での閲覧のみ。解答例は非公開。",
+          "relatedProductPath": "/grad-schools/niigata-university/graduate-school-of-science-and-technology/mathematical-sciences-mathematics"
+        },
+        {
+          "departmentName": "法学部 第3年次編入学試験 専門科目（法学）",
+          "url": "https://www.jura.niigata-u.ac.jp/~law-web/for-examinees/exam-information.html",
+          "yearRange": "2025・2026年度入学（2024・2025年実施）",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-11-01",
+          "note": "法学部公式の入試情報ページから、2025・2026年度入学の第3年次編入学試験・専門科目の問題PDFを確認できます。2025年度は2024年実施、2026年度は2025年実施で、両回とも4設問から2設問を選ぶ形式です。教材には実際に選ぶ2設問だけでなく、両回の選択対象すべてに独自の答案例と詳解を付けています。2026年度の論点は、立法や司法と感情の関係、夫婦同氏制の憲法適合性、建物賃貸借の法定更新と更新拒絶、予期した侵害に対する正当防衛です。2025年度はソフトロー、集会の自由と公の施設、過失責任と無過失責任、刑法の因果関係を扱います。準備では、問いに対する自分の結論を先に決め、必要な制度や概念を定義し、条文の要件と事実を対応させて論述してください。判例の読み直しでは、対象となった事実と判断の射程を確認すると、判例名を挙げるだけの答案から進めます。憲法の問題では権利への制約と審査の理由、民法では契約や責任の成立要件、刑法では行為と結果の評価を分けて整理する練習が役立ちます。全8設問・小問10を22ページの1冊にまとめています。解説では公的な法令・裁判資料を参照し、出題時点と現行法が異なる場合を区別しています。確認した問題PDFには公式の解答例は付属せず、教材の答案は大学公認の模範答案や採点基準ではありません。問題本文と外国語科目は収録しません。現在の募集人員や受験資格は、この過去問資料から推定せず、受験する年度の公式要項を確認してください。",
+          "relatedProductPath": "/grad-schools/niigata-university/faculty-of-law/law"
+        }
+      ],
+      "searchTitle": "新潟大学の過去問｜大学院自然科学・法学部編入の公式問題と解答解説",
+      "searchDescription": "新潟大学の公式過去問を大学院自然科学研究科と法学部編入に分けて案内。法学部は2025・2026年度入学の専門科目、各回4設問から2設問を選ぶ形式と、法令・判例を使う答案の準備を確認できます。",
+      "updatedAt": "2026-11-01"
+    },
+    {
+      "slug": "okayama-university",
+      "updatedAt": "2026-10-17",
+      "searchTitle": "岡山大 院試 過去問｜環境生命自然科学研究科の問題・解答閲覧",
+      "searchDescription": "岡山大学大学院の2023〜2025年度実施分をコース・募集回から探せます。公式解答例の窓口閲覧、入学年度との対応、公表時期、数理科学の数学解説を案内。",
+      "fullName": "岡山大学",
+      "shortName": "岡山大",
+      "intro": "岡山大学大学院環境生命自然科学研究科は、研究科の入試ページで博士前期課程一般入試の専門科目過去問を直近3年分公開しています。解答例はWebでは公開されず、担当窓口での閲覧のみという運用です。",
+      "sources": [
+        {
+          "departmentName": "環境生命自然科学研究科（博士前期課程 一般入試）",
+          "url": "https://www.elst.okayama-u.ac.jp/admission/nyugakushiken/past/",
+          "yearRange": "直近3年分（2023〜2025年度実施分）",
+          "officialAnswerAvailability": "onsite",
+          "lastConfirmedAt": "2026-10-17",
+          "note": "一般入試の専門科目に限りWeb掲載。著作物の引用を含む部分は非公表。解答例は担当窓口での閲覧のみでWeb非公開。数理科学コースの数学もこのページの区分から辿る。",
+          "relatedProductPath": "/grad-schools/okayama-university/graduate-school-of-environmental-life-natural-science-and-technology/mathematical-sciences-mathematics"
+        }
+      ]
+    },
+    {
+      "slug": "saitama-university",
+      "updatedAt": "2026-10-17",
+      "searchTitle": "埼玉大 院試 過去問｜数学の夏・冬の公式問題と解答解説",
+      "searchDescription": "埼玉大学大学院の数学過去問を入学年度と実施月で探せます。2024〜2026年度の夏・冬の問題PDF、公式解答の掲載状況、編入試験との違い、数学の解答・解説集を案内。",
+      "fullName": "埼玉大学",
+      "shortName": "埼玉大",
+      "intro": "埼玉大学の大学院数学は、数理電子情報専攻・数学プログラムの公式サイトに8月・2月実施の過去問があります。2027年度第1次は英語スコア不要で、専門の必答4問と選択1問、面接を課します。公表中の2027年度第2次は数学を募集していません。工学部第3年次編入の数学は別の入試です。",
+      "sources": [
+        {
+          "departmentName": "理工学研究科 数理電子情報専攻 数学プログラム（博士前期課程）",
+          "url": "https://www.rimath.saitama-u.ac.jp/prob/index.html",
+          "yearRange": "2003〜2026年度入試（最新は2025年8月・2026年2月実施）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "2027年4月入学・第1次募集の数学PGは英語試験・外部スコア提出の指定なし。筆記区分は専門100点と面接100点、口述区分は口述200点。",
+          "lastConfirmedAt": "2026-10-17",
+          "note": "公式ページは「令和8年度入試（令和7年8月実施）」のように入学年度と実施日で回次を表す。過去の8月実施・2月実施の数学をPDFで掲載。2027年度第1次は線形代数・微分積分4問すべてと、代数・幾何・解析3問から1問を解答し、専門全体で120分。過去の2月問題の公開は次回の冬募集を保証しない。公式解答・解答例はいずれの回次も非公開。",
+          "relatedProductPath": "/grad-schools/saitama-university/graduate-school-of-science-and-engineering/mathematics"
+        },
+        {
+          "departmentName": "工学部 第3年次編入学試験（数学）",
+          "url": "https://www.saitama-u.ac.jp/exam_archives/202605211000.html",
+          "yearRange": "令和3〜8年度（6回。募集ページからのリンクは令和6〜8年度の3回分）",
+          "officialAnswerAvailability": "none",
+          "englishHandling": "第3年次編入学試験の学力試験は数学と専門科目で、英語は課されない（外部試験のスコア提出も不要）。",
+          "lastConfirmedAt": "2026-09-06",
+          "note": "機械工学・システムデザイン学科／電気電子物理工学科／環境社会デザイン学科の共通問題で、毎年 大問1 微分積分・大問2 線形代数・大問3 微分方程式の3題構成、選択制はなくすべて必答。答案は1問につき1枚で「解答が得られた経過がわかるように記入すること」と明記されており、途中式が採点対象になる。募集ページが直接リンクしているのは令和6〜8年度の3回分だが、令和3〜5年度のPDFも同じサーバー上で配信が続いており、あわせて6回分を参照できる。解答例・出題意図はいずれの年度も公表されていない。令和9年度入試は令和8年7月4日実施、出願は令和8年6月8日〜12日で、実施は例年7月上旬。",
+          "relatedProductPath": "/grad-schools/saitama-university/faculty-of-engineering/mathematics"
+        }
+      ]
+    },
+    {
+      "slug": "rikkyo-university",
+      "updatedAt": "2026-10-17",
+      "searchTitle": "立教大 院試 過去問｜理学研究科の問題と2026年度公式解答",
+      "searchDescription": "立教大学大学院理学研究科の数学・物理・化学の問題と公式解答を案内。2027年度夏季の問題、2026年度夏季・春季の解答フォルダ、解説集を探せます。",
+      "fullName": "立教大学",
+      "shortName": "立教大",
+      "intro": "立教大学大学院理学研究科は、専攻ごとの「入試問題」ページで博士課程前期課程の過去問を公開しています。数学・化学の専攻ページには2027年度夏季まで掲載されています。物理の専攻ページの先頭は2025年度春季で、2026年度分は大学本体の配布先から探せます。大学全体の過去問題ページでは、2026年度入試（2025年度実施）から解答または解答例と出題意図も公開しています。",
+      "sources": [
+        {
+          "departmentName": "理学研究科 物理学専攻（博士課程前期課程）",
+          "url": "https://science.rikkyo.ac.jp/physics/graduate/mondai.html",
+          "yearRange": "専攻ページは2003〜2025年度。2026年度は大学本体の公開先",
+          "officialAnswerAvailability": "partial",
+          "englishHandling": "専攻の過去問ページは物理学の問題。大学本体の2026年度公開フォルダには英語の問題・解答資料もある。現在の受験条件は志望年度の募集要項で確認。",
+          "lastConfirmedAt": "2026-10-17",
+          "note": "公式の呼称は夏季入学試験（7月実施）と春季入学試験（翌年2月実施）で、どちらも同じ入学年度の回次。夏季は全6問、春季は全4問の構成でPDFを掲載。専攻ページ側は問題のみだが、大学本体の過去問題ページでは「2025年度に実施した試験（2026年度入試）から、解答または解答例および出題の意図も公開」されており、理学研究科は物理学・化学・数学・生命理学の4専攻とも2026年度入試分の解答例がGoogleドライブで公開されている。2025年度入試以前の回については解答例は非公開。数学専攻・化学専攻・生命理学専攻も同じ形式の専攻別ページを持つ。",
+          "relatedProductPath": "/grad-schools/rikkyo-university/graduate-school-of-science/physics"
+        },
+        {
+          "departmentName": "理学研究科 数学専攻（博士課程前期課程）",
+          "url": "https://science.rikkyo.ac.jp/math/graduate/mondai.html",
+          "yearRange": "2023〜2027年度（2027年度は夏季のみ）",
+          "officialAnswerAvailability": "partial",
+          "englishHandling": "専攻の過去問ページは数学の問題。大学本体の2026年度公開フォルダには英語の問題・解答資料もある。現在の受験条件は志望年度の募集要項で確認。",
+          "lastConfirmedAt": "2026-10-17",
+          "note": "夏季入学試験（7月実施）と春季入学試験（翌年2月実施）の数学をPDFで掲載。2027年度夏季の問題は全9問で、線形代数[1][2]から1題、微分積分[3][4]から1題、専門科目[5]〜[9]から1題の計3題を選択して解答する。専攻ページ側は問題のみだが、大学本体の過去問題ページでは2026年度入試（2025年度に実施した試験）から解答または解答例および出題の意図が公開されており、数学専攻の2026年度夏季・春季分も対象。2026年度夏季の公式解答は2ページで、計算結果と証明の要点を掲載している。2025年度入試以前の回については解答例は非公開。",
+          "relatedProductPath": "/grad-schools/rikkyo-university/graduate-school-of-science/mathematics"
+        },
+        {
+          "departmentName": "理学研究科 化学専攻（博士課程前期課程）",
+          "url": "https://science.rikkyo.ac.jp/chemistry/graduate/mondai.html",
+          "yearRange": "2024〜2027年度（2027年度夏季までの計7回）",
+          "officialAnswerAvailability": "partial",
+          "englishHandling": "専攻ページに掲載されているのは専門科目「化学」の筆記試験問題のみ。英語の問題は大学本体の過去問題ページ側にあり、本文は著作権の関係で非掲載（出典のみ記載）の回がある。",
+          "lastConfirmedAt": "2026-10-17",
+          "note": "「博士課程前期課程筆記試験問題（化学）」として、夏季試験（前年7月実施）と春季試験（当該年度2月実施）のPDFを年度ごとに掲載。2024〜2027年度夏季までの7回分が公開されている。出題は基礎問題 問1〜4（必答）と選択問題から1問を選ぶ計5問で、選択問題は通常 問5〜8 の4問だが、2024年度（夏季）のみ 問5〜9 の5問が用意され、この回だけ大問が9問ある。解答例は回次によって扱いが異なる：大学は「2025年度に実施した試験（2026年度入試）から、解答または解答例および出題の意図も公開」しており、化学専攻でも2026年度夏季・春季の2回分が大学本体の過去問題ページ（Googleドライブ）で公開されている。ただし内容は最終解答と短い理由を並べた数ページの「解答の一例」で、導出過程の詳細な解説ではない。2024年度夏季・2024年度春季・2025年度夏季・2025年度春季の4回については解答例は公開されていない。",
+          "relatedProductPath": "/grad-schools/rikkyo-university/graduate-school-of-science/chemistry"
+        }
+      ]
+    },
+    {
+      "slug": "komazawa-university",
+      "fullName": "駒澤大学",
+      "shortName": "駒澤大学",
+      "updatedAt": "2026-10-19",
+      "intro": "2026年度の大学院入試問題は、公式一覧から専攻・9月／2月・修士／博士を選んで取得できます。問題に応じて解答例または出題意図が付いています。過年度の問題とWebで黒塗りになった部分は、教務部の大学院担当⑤番窓口で閲覧できます。",
+      "sources": [
+        {
+          "departmentName": "大学院8研究科の過去問・解答例・出題意図",
+          "url": "https://www.komazawa-u.ac.jp/exam/past/intention-graduate.html",
+          "requestUrl": "https://www.komazawa-u.ac.jp/academics/graduate/consultation.html",
+          "yearRange": "2026年度（9月・2月）",
+          "officialAnswerAvailability": "partial",
+          "lastConfirmedAt": "2026-10-19",
+          "note": "対象は仏教学、人文科学、経済学、商学、法学、経営学、医療健康科学、グローバル・メディアの8研究科。人文科学は国文学・英米文学・地理学・歴史学・社会学・心理学から選べます。記述問題は出題意図だけの場合があり、すべての設問に解答例があるとは限りません。資料請求ページの専用フォームから申し込むと、自動返信メールで資料データを受け取れます。送付される過去問は過去1年分です。古い年度や著作権による非掲載部分は、大学院担当窓口で閲覧してください。"
+        }
+      ]
+    },
+    {
+      "slug": "muroran-institute-of-technology",
+      "fullName": "室蘭工業大学",
+      "shortName": "室蘭工大",
+      "intro": "室蘭工業大学大学院工学研究科の博士前期課程一般入試は、コースごとに専門科目の問題と解答例を公開しています。物理物質科学コース等は第1日・第2日の科目を含み、公式の表紙で対象コースと選択科目を確認できます。",
+      "sources": [
+        {
+          "departmentName": "工学研究科 博士前期課程一般入試 物理物質科学コース・共創情報学コースG系",
+          "url": "https://muroran-it.ac.jp/daigakuin/gsee/past_eq_gs/",
+          "yearRange": "2025・2026年度 第1次・第2次募集",
+          "officialAnswerAvailability": "full",
+          "lastConfirmedAt": "2026-10-24",
+          "note": "4実施回の専門科目と同梱解答例を確認。第1次募集は物理物質科学コース・共創情報学コースG系、第2次募集の公式表紙は物理物質科学コース。2025年度第1次募集の同梱ファイルには他試験の解答例も含むため対象の入試区分を照合する。",
+          "relatedProductPaths": [
+            "/grad-schools/muroran-institute-of-technology/graduate-school-of-engineering/physical-and-materials-science"
+          ]
+        },
+        {
+          "departmentName": "工学研究科 博士前期課程一般入試 機械ロボット工学コース・共創情報学コースE系",
+          "url": "https://muroran-it.ac.jp/daigakuin/gsee/past_eq_gs/",
+          "yearRange": "2025・2026年度 第1次・第2次募集",
+          "officialAnswerAvailability": "full",
+          "lastConfirmedAt": "2026-10-24",
+          "note": "4実施回の問題と同梱の解答例を確認。数学・熱力学・流体力学・材料力学・機械力学・制御工学を公開。2026年度第2次の流体力学は3大問で、他3回の2大問と区別する。",
+          "relatedProductPaths": [
+            "/grad-schools/muroran-institute-of-technology/graduate-school-of-engineering/mechanical-robotics-engineering"
+          ]
+        },
+        {
+          "departmentName": "工学研究科 博士前期課程一般入試 電気電子工学コース・共創情報学コースI系",
+          "url": "https://muroran-it.ac.jp/daigakuin/gsee/past_eq_gs/",
+          "yearRange": "2025・2026年度 第1次・第2次募集",
+          "officialAnswerAvailability": "full",
+          "lastConfirmedAt": "2026-10-24",
+          "note": "大学本体の入試ページと研究科索引から、4実施回の原題と同梱の解答例を確認。工業数学・電磁気学・電気回路・電子回路の全44大問を公開。電気回路の問題1は必修、問題2・3は選択で、教材は両方を収録。",
+          "relatedProductPaths": [
+            "/grad-schools/muroran-institute-of-technology/graduate-school-of-engineering/electrical-and-electronic-engineering"
+          ]
+        },
+        {
+          "departmentName": "工学研究科 博士前期課程一般入試 化学生物工学コース・共創情報学コースA系",
+          "url": "https://muroran-it.ac.jp/daigakuin/gsee/past_eq_gs/",
+          "yearRange": "2025・2026年度 第1次・第2次募集",
+          "officialAnswerAvailability": "full",
+          "lastConfirmedAt": "2026-10-24",
+          "note": "4実施回の第1日A-1〜6・第2日B-1〜6、全48大問と同梱解答例を確認。第2日は6科目から3科目、B-6はA・B・Cから2問を選択。2025年度第1次の第2日表紙は同配布の第1日・解答例と入学年月が異なるため、資料の記載を区別する。",
+          "relatedProductPaths": [
+            "/grad-schools/muroran-institute-of-technology/graduate-school-of-engineering/chemical-and-biological-engineering"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "sokendai",
+      "fullName": "総合研究大学院大学",
+      "shortName": "総研大",
+      "intro": "総合研究大学院大学の天文科学コースは、五年一貫制博士課程の専門科目を公開しています。2021〜2026年度入学の問題を確認でき、古い年度には物理科学研究科天文科学専攻の組織名が使われています。",
+      "sources": [
+        {
+          "departmentName": "先端学術院 先端学術専攻 天文科学コース",
+          "url": "https://guas-astronomy.jp/Applicants/exam.html",
+          "yearRange": "2006〜2026年度入学・五年一貫制博士課程 専門科目。出題意図・解答例は2026年度分のみ",
+          "officialAnswerAvailability": "partial",
+          "lastConfirmedAt": "2026-10-28",
+          "note": "6回すべて第1〜5問の全問必答。2021・2022年度は専門科目①②を合わせて5問。2026年度は公式解答例が別PDFで公開されており、2021〜2025年度は問題と正誤表を確認。2023入学年度は2022年10月26日、それ以外は前年8月に実施。外国語・博士後期課程はこの商品の対象外。",
+          "relatedProductPaths": [
+            "/grad-schools/sokendai/graduate-institute-for-advanced-studies/astronomical-science"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "mie-university",
+      "fullName": "三重大学",
+      "shortName": "三重大",
+      "updatedAt": "2026-11-01",
+      "intro": "三重大学大学院教育学研究科の教職実践高度化専攻（教職大学院）は、入試問題と出題意図を公式サイトで公開しています。過去問を使うときは、入学年度と実施日、募集区分を先に確認してください。院試Hubの小論文解答・解説集は、2026年度一次募集（2025年8月21日実施）と2025年度B日程（2024年10月27日実施）の全4題を、13ページの1冊に収録しています。2025年度A日程は課題文の一部が非公開のため収録していません。扱う題材は、多文化共生を支える学級づくり、教科の概念を理解する学習、いじめ防止、社会に参画する力を育てる授業です。答案例では中学校社会科公民的分野などの具体例を用い、課題の捉え方から学習活動、支援、評価までをつなげています。まず公式問題で求められた観点と字数を整理して自分の答案を書き、公式の出題意図と照合してから解説を読むと、知識の不足と論述の組立ての課題を分けて確認できます。例を使う際は、自分の専門教科や実際の経験に合わせて根拠を説明し、実施していない授業を体験談にしないようにします。掲載する答案は大学公認の模範答案ではなく、独自に作成した学習用の例です。最新の募集人員・試験日・出願手続は、教育学研究科の入試案内から公式募集要項を確認してください。",
+      "sources": [
+        {
+          "departmentName": "教育学研究科 教職実践高度化専攻（教職大学院）",
+          "url": "https://www.edu.mie-u.ac.jp/exam/gs-exam/",
+          "yearRange": "2024〜2026年度",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-11-01",
+          "note": "入試問題と出題意図を掲載。解答例の掲載はない。2025年度A日程の第2問課題文は著作権のため非公開。対応商品は2026年度一次募集と2025年度B日程の小論文で、2025年度A日程は収録しない。",
+          "relatedProductPath": "/grad-schools/mie-university/graduate-school-of-education/essay"
+        }
+      ],
+      "searchTitle": "三重大学の教職大学院入試・小論文過去問｜教育学研究科の解答と収録回",
+      "searchDescription": "三重大学教育学研究科の教職大学院入試について、公式の小論文過去問と出題意図の入手先を案内します。2026年度一次募集・2025年度B日程の全4題に対応する解答・解説集の収録範囲、13ページの見本、研究科別の募集要項も確認できます。"
+    },
+    {
+      "slug": "ehime-university",
+      "fullName": "愛媛大学",
+      "shortName": "愛媛大",
+      "searchTitle": "愛媛大学の院試過去問｜教育学研究科・心理学の公式問題と解答解説",
+      "searchDescription": "愛媛大学大学院教育学研究科・臨床心理学領域の公式過去問を案内。2026年度入学の9月募集と2月募集について、論述・選択問題の内容と公式解答番号、教材の収録範囲と設問の制約を確認できます。",
+      "updatedAt": "2026-11-01",
+      "intro": "愛媛大学大学院教育学研究科の心理学過去問は、教育学部の入試情報ページから確認できます。ここで案内するのは心理発達臨床専攻・臨床心理学領域の2026年度入学試験で、9月募集は2025年9月8日、2月募集は2026年2月18日に実施されました。入学年度と実施年を分け、問題冊子の募集区分を確かめて利用してください。両回とも論述と選択問題を含み、援助関係、心理療法、学習、心理検査、統計や支援に関わる制度を横断して復習できます。9月募集では共感、精神分析的心理療法、ナラティヴ・セラピー、産業保健の事例を、2月募集では概念変化、対象関係論、家族療法、インテークを扱います。論述の練習では用語の定義を示し、その考え方を事例のどの記述に使うか説明したうえで、支援方針と判断の限界を結び付けてください。選択問題は正答番号だけを覚えず、各肢が成り立つ条件を確認すると、似た理論や制度の取り違えを点検できます。大学の公開資料には選択問題の解答番号や出題意図が含まれますが、院試Hubの答案例は独自に作成したものです。9月募集問5Qは公表正答4のほかにも制度と矛盾する肢があるため、教材では少年院法と犯罪白書の根拠を示し、単一正答と断定していません。公式問題と教材の収録範囲を照合して学習を進めてください。答案を書いた後は、定義と事例への説明が対応しているか見直してください。",
+      "sources": [
+        {
+          "departmentName": "教育学研究科 心理発達臨床専攻 臨床心理学領域（修士課程）",
+          "url": "https://ed.ehime-u.ac.jp/edhp/nyuushi/",
+          "yearRange": "2026年度入学・9月募集（2025年9月8日実施）と2月募集（2026年2月18日実施）",
+          "officialAnswerAvailability": "partial",
+          "lastConfirmedAt": "2026-11-01",
+          "note": "教育学部の入試情報ページに、2026年度入学の9月募集と2月募集の専門科目（心理学）を掲載しています。9月募集は2025年9月8日実施、2月募集は2026年2月18日実施です。公式問題PDFはそれぞれ9b.pdfと2b.pdfで、選択問題の公表解答番号と出題意図を含みます。両回の全10大問・53設問を対象とし、論述に加えて選択問題40問の全200肢を解説した50ページの教材に対応します。論述を練習するときは、共感と同情、抵抗とワークスルー、ナラティヴ・セラピーなどの概念を定義し、事例の情報を挙げて使い方を説明してください。2月募集の学習・対象関係論・家族療法・インテークも、理論名の列挙で終わらせず、状況の理解から支援方針までつなげる練習に使えます。選択問題では心理検査、学習や発達、統計、支援制度の根拠を肢ごとに確認します。9月募集問5Qの大学公表正答は4ですが、肢3の出院後相談に関する記述は少年院法第146条と、肢5の特別調整に関する記述は犯罪白書が示す帰住先の要件と矛盾します。教材には公表値と各肢の説明を収録し、4だけが不適切だとは断定していません。独自の論述答案例は大学公認の模範答案や採点基準ではありません。問題本文と原図は教材に含めず、公式PDFを併用します。今後の出願日程・資格・試験科目は、希望する入学年度の募集要項で別途確認してください。",
+          "relatedProductPath": "/grad-schools/ehime-university/graduate-school-of-education/psychology"
+        }
+      ]
+    },
+    {
+      "slug": "yokohama-national-university",
+      "fullName": "横浜国立大学",
+      "shortName": "横国大",
+      "updatedAt": "2026-11-01",
+      "searchTitle": "横浜国立大学の院試過去問｜経済学専攻の公式問題・解答解説",
+      "searchDescription": "横浜国立大学国際社会科学府経済学専攻の公式過去問と解答・出題意図を案内。入学年度、第1次・第2次募集、一般入試の受験区分、ミクロ経済学・マクロ経済学Ⅰ・Ⅱの科目単位を確認できます。",
+      "intro": "横浜国立大学の国際社会科学府経済学専攻では、博士課程前期の一般入試の過去問を専攻の公式サイトで公開しています。2024〜2026年度入学者向けの第1次・第2次募集が区分され、一般入試の2科目受験者用とERE成績提出者用、特別入試などの冊子も分かれています。まず入学年度と募集回、受験区分を合わせて問題を選んでください。2026年度からは解答・出題意図も掲載されていますが、証明を省略した箇所があり、全ての設問に詳しい解説が付くわけではありません。ここで案内する院試hubの教材は、2026年度の一般入試2科目受験者用の第1次・第2次募集を対象とする2冊です。科目名は「ミクロ経済学・マクロ経済学Ⅰ」と「同Ⅱ」で、ミクロとマクロを独立した科目として分冊したものではありません。Ⅰは交換経済・効率性と短期の財政金融政策、Ⅱは交通混雑・マッチングと経済成長を扱います。公式問題は大学から取得し、教材では独自の答案と、定義・公式・成立条件・具体例による詳解を確認できます。原題の不足条件や公式解答との不一致も根拠を添えて区別しています。問題本文と原図は教材に含まず、他の選択科目や別の受験区分を収録した商品でもありません。購入前に各冊の収録回、見本、価格を確認できます。",
+      "sources": [
+        {
+          "departmentName": "国際社会科学府 経済学専攻 博士課程前期 一般入試（2科目受験者）",
+          "url": "https://www.economics.ynu.ac.jp/admissions/graduate_program/ma/",
+          "yearRange": "公式一覧は2024〜2026年度の第1次・第2次。教材は2026年度の第1次・第2次",
+          "officialAnswerAvailability": "partial",
+          "lastConfirmedAt": "2026-11-01",
+          "note": "2026年度の一般入試2科目受験者用問題冊子は、Ⅰ・Ⅱ・経済史・経済政策・統計学・計量経済学の6科目から、指定された組合せで2科目を選ぶ形式です。ⅠとⅡを同時に選ぶ組合せもあります。公式の科目単位に合わせ、解答・解説集もⅠとⅡを別の購入単位にしています。両冊とも第1次募集と第2次募集の2回分で、第1次は2025年9月10日、第2次は2026年2月13日の実施です。Ⅰは全4大問19設問を18ページに収録し、完全補完の整数需要、全効率的配分、無羨望、均衡財政と供給制約、対外リスクと安定化目標を説明します。Ⅱは全4大問22設問を20ページに収録し、共有道路の混雑、研修医提案型のマッチング、離散・連続時間のソロー成長を扱います。第1次のⅠの無羨望の証明は原題条件に反例があるため追加条件と分け、Ⅱの交通均衡は公式候補への単独逸脱を計算して不一致を説明します。公式解答を転載した教材ではありません。2027年度の問題は確認日の公式過去問一覧に未掲載で、本商品にも含みません。新しい年度を受験する場合は募集要項を別途確認してください。",
+          "relatedProductPaths": [
+            "/grad-schools/yokohama-national-university/graduate-school-of-international-social-sciences/micro-macro-i",
+            "/grad-schools/yokohama-national-university/graduate-school-of-international-social-sciences/micro-macro-ii"
+          ]
+        }
+      ]
+    },
+    {
+      "slug": "nihon-university",
+      "fullName": "日本大学",
+      "shortName": "日大",
+      "updatedAt": "2026-11-01",
+      "searchTitle": "日本大学経済学部の編入過去問｜論文の公式問題・800字答案と解説",
+      "searchDescription": "日本大学経済学部の編入学試験「論文」の公式問題、解答ポイント、出題意図を案内。第1期・第2期の配布先、2題から1題を選ぶ800字程度の指定、転部などと共通の問題の扱いを確認できます。",
+      "intro": "日本大学経済学部は、入学者選抜に係る情報公開のページで、試験問題、解答又は解答例、出題意図を選抜区分別に掲載しています。このページでは、2026年度の編入学試験「論文」第1期・第2期の公式配布先と、対応する独自答案・詳解を案内します。一般選抜の問題や、外国人留学生向けの論文、事前課題の小論文とは別の区分です。公式冊子では各回とも2題から1題を選び、800字程度で論述するよう指定されています。第1期は経済学の有用性と時間を重視した消費、第2期はGDPとシェアリングエコノミーがテーマです。用語の説明だけでなく、複数の具体例、利点と欠点、自分の考えなど、題ごとに求められる要素が異なります。大学の解答例は論述のポイントを示すもので、800字程度の一続きの完成答案ではありません。院試hubの教材は、選択対象の全4題について独自の答案例と経済概念の詳解を13ページにまとめています。実際に試験で書くのは各回1題であり、4題を同時に解答する形式ではありません。第2期の別制度向けに掲載された同一問題は重複して数えず、2回分として扱います。公式問題と出題意図を確かめ、教材の見本・収録範囲・価格から学習に使うか判断できます。大学院入試向けの商品ではなく、英語科目と問題本文は教材に含みません。",
+      "sources": [
+        {
+          "departmentName": "経済学部 編入学試験 論文（第1期・第2期）",
+          "url": "https://www.eco.nihon-u.ac.jp/admission/answer/",
+          "yearRange": "2026年度 第1期・第2期（2025年10月・2026年3月実施）",
+          "officialAnswerAvailability": "full",
+          "lastConfirmedAt": "2026-11-01",
+          "note": "対象は2026年度編入学試験の論文で、第1期は2025年10月19日、第2期は2026年3月4日の実施です。第1期は転部、第2期は転部・転科・転籍・変更と共通の問題が公式ページに掲載されています。第2期PDFの2ページ目は別制度向けの同じ2題であり、追加の実施回として数えていません。両回とも2題のうち1題を選び、800字程度の一つの論述にまとめる指定です。第1期の経済学の問題は批判理由と有用性、消費の問題は3つの例、それぞれの利点・欠点と環境・社会への配慮を求めます。第2期はGDPの定義・用途・限界、または資産を共有する消費行動の3例とその効果を論じます。教材は全4題にそれぞれ約800字の答案例を置き、外部性、機会費用、付加価値、情報の非対称性などを式・条件・独自例とともに解説します。大学が公開した解答のポイントと出題意図も照合していますが、答案の文章と具体例は独自に作成したものです。第1期問題1の下位要求は原題の2項目を優先し、公式ポイントの一律の項目数に合わせて設問を増やしていません。表紙込み13ページの1冊で、英語科目・問題本文は非収録です。",
+          "relatedProductPath": "/grad-schools/nihon-university/faculty-of-economics/essay"
+        }
+      ]
+    },
+    {
+      "slug": "hosei-university",
+      "fullName": "法政大学",
+      "shortName": "法政大",
+      "searchTitle": "法政大学の院試過去問｜社会学研究科・社会学専攻の公式問題と解答解説",
+      "searchDescription": "法政大学大学院社会学研究科・社会学専攻の公式過去問を案内。秋季・春季の専門科目について、論述と用語説明の選択形式、公式解答例・出題意図の使い方、教材の収録範囲を確認できます。",
+      "updatedAt": "2026-11-01",
+      "intro": "法政大学大学院社会学研究科・社会学専攻の専門科目は、大学院の過去問題ページで公式問題と解答例・出題意図を確認できます。ここでは2026年度入学の秋季・春季を案内します。両回とも60分で、Iの論述はA・Bから一つ、IIの用語説明は秋季10項目・春季12項目から四つを選びます。IとIIは別の解答用紙を使い、選んだ番号を明記する形式です。公開問題に論述の指定字数はなく、用語は各数行で簡潔に説明します。秋季の論述では社会統合の課題と学説、文化産業論からみた現代の情報環境を扱います。春季は権力概念と具体例、日常生活のDXを扱い、権力論ではヴェーバー、パーソンズ、フーコー、ブルデューから一人を選びます。学説名を列挙せず、選んだ概念で何を説明できるかを事例の事実に対応させる練習に使えます。用語では連帯、儀礼的無関心、調査法、メディアの諸概念などを復習できます。短い答案を作った後に、定義の中心となる特徴と、似た概念との差が含まれているかを確認してください。疑似相関なら因果を結論できない理由、参与観察なら研究者の立場と調査倫理まで考えると、論述への応用も進められます。公式の解答例は要点や出題意図と併せて使い、唯一の文章表現だけを正解と考えないことが必要です。院試Hubは選択対象すべての独自答案例と詳解を用意しています。春季の権力論も四人それぞれの概念と適用を収録していますが、実際の試験では一人を一貫して用います。大学公認の模範答案ではありません。試験実施の暦年や日付は原本未確認のため補わず、出願条件は希望する入学年度の募集要項で確認してください。",
+      "sources": [
+        {
+          "departmentName": "社会学研究科 社会学専攻（修士課程）",
+          "url": "https://www.hosei.ac.jp/gs/jukensei/request/kakomondai/",
+          "yearRange": "2026年度入学・秋季と春季（実施暦日は未確認）",
+          "officialAnswerAvailability": "partial",
+          "lastConfirmedAt": "2026-11-01",
+          "note": "2026年度入学試験の社会学専攻・修士課程専門科目を、秋季と春季の別に公開しています。問題は各1頁、公式の解答例・出題意図は各4頁です。論述と用語説明で構成され、外部の未掲載読解文を必要とする設問や、課題文の省略はありません。IはA・Bから一つを選び、IIは秋季10項目・春季12項目から四つを選ぶ形式です。IとIIで解答用紙を分けます。論述の字数上限は公開問題に明記されず、IIは各数行の指定です。秋季Iでは社会統合を説明する学説と現代的課題を結び付ける論述、文化産業論を踏まえてSNS等の情報環境を考察する論述を練習できます。春季I Aは、ヴェーバー、パーソンズ、フーコー、ブルデューのうち一人の権力概念を説明し、同じ概念を具体例へ適用します。概念説明と事例分析で論者を入れ替えないことが必要です。春季I Bでは、生活のDXの具体例から、生活の変化、現状の課題、将来の展望まで一つの論証にまとめます。用語説明は、定義を短く示す答案と、概念の背景や使い方を学ぶ復習を分けて進めると有効です。機械的連帯と有機的連帯、疑似イベントとスペクタクルなど、似た題材に用いる概念の違いも整理してください。調査法は対象への接近、資料が得られる条件、同意と匿名化、推論できる範囲を併せて考えます。教材は社会学専攻の専門科目に限り、他専攻や外国語科目の答案を含みません。全4大問の選択対象を27解説単位として扱う23頁の独自教材で、春季I Aには四人それぞれの概念と適用例を収録しています。大学の公式解答の転載や公認答案ではありません。実施暦日は原本未確認のため記載しません。",
+          "relatedProductPath": "/grad-schools/hosei-university/graduate-school-of-sociology/sociology"
+        }
+      ]
+    },
+    {
+      "slug": "hitotsubashi-university",
+      "fullName": "一橋大学",
+      "shortName": "一橋大",
+      "updatedAt": "2026-11-02",
+      "searchTitle": "一橋大学経済学研究科の院試過去問｜旧方式筆記の問題と解答解説",
+      "searchDescription": "一橋大学経済学研究科の公式過去問と旧方式筆記教材を案内。入学年度と実施年、ミクロ・マクロの答題範囲、現在の口述方式との違いを確認できます。",
+      "intro": "一橋大学経済学研究科の公式過去問ページでは、過去の入試で使われた問題冊子を確認できます。公開年と実施年を合わせ、科目の表紙と答題指示を読んでから使う問題を選んでください。このページで案内する教材は、2021年度と2022年度秋季の「ミクロ・マクロ経済学」を対象にした旧方式筆記の独自解答・解説集です。基礎の選択肢は正答だけでなく他の選択肢との違いも説明し、応用では試験で選択する題を両方扱います。数量競争、価格差別、二期間消費、無限期間の消費と投資を、定義と条件から解き直すための資料です。原題の一部には規約の未指定や境界条件の不足があるため、想定解、原題だけからいえること、追加条件を分けて説明します。公式問題と大学の入試情報は大学の配布先、教材の収録内容と紙面は商品の見本で確認できます。公式の模範解答を収録した刊行物ではありません。なお、現在の2027年度春季は書類選考とオンライン口述による別の方式です。旧筆記での練習が現行の口述内容を再現するという意味ではなく、購入時には対象年と目的を確かめてください。",
+      "sources": [
+        {
+          "departmentName": "経済学研究科 ミクロ・マクロ経済学（旧方式筆記）",
+          "url": "https://www.econ.hit-u.ac.jp/jpn/page/examinee/graduate_admissions/past_exam.html",
+          "yearRange": "教材は2021年度・2022年度秋季。現行春季の選考は別方式",
+          "officialAnswerAvailability": "none",
+          "lastConfirmedAt": "2026-11-02",
+          "note": "教材は2021年度と2022年度秋季の旧方式筆記2実施回に限ります。実施日はそれぞれ2020年8月27日と2021年8月26日です。基礎の20項目を各回すべて、応用の選択対象も両題とも解説し、計6題66設問を48ページに収録します。基礎は選択37問・全158選択肢と数字記入3問で、英語版の同一問題は重複して数えていません。TFPの成長率規約、限界効用の整合性、需要の退化境界、政府残高の符号などは、原題の記述と追加条件を区別します。公式の模範解答は非公開です。現行2027年度春季の要項は書類選考とオンライン口述の方式であり、本教材を現行筆記の再現として使う案内はしません。原題の文章・表・図と他科目は非収録です。",
+          "relatedProductPath": "/grad-schools/hitotsubashi-university/graduate-school-of-economics/micro-macroeconomics"
+        }
+      ]
+    },
+    {
+      "slug": "ryukoku-university",
+      "fullName": "龍谷大学",
+      "shortName": "龍谷大",
+      "updatedAt": "2026-11-02",
+      "searchTitle": "龍谷大学経済学部の編入過去問｜経済学の公式問題と解答解説",
+      "searchDescription": "龍谷大学経済学部の3年次編転入試験の公式問題・解答例を案内。経済学の答題範囲、図と式の確認、公式例との不一致を説明する教材を確認できます。",
+      "intro": "龍谷大学は入試の過去問題公開ページで、選抜区分と学部ごとに問題・解答例・出題意図を案内しています。経済学部の3年次編転入学試験を探す場合は、一般選抜の大学入試や大学院入試とは区分を分けて確認してください。このページで扱う教材は2025・2026年度入学の専門科目「経済学」2回分です。各回は消費者理論とマクロの政策分析の2大問で、3つずつの設問にすべて答える形式です。最適化の計算を終えた後に、予算線と無差別曲線、財市場と貨幣市場へ戻って答えを確認する練習に使えます。教材では公式の紹介だけでなく、成立条件、導出、図と式の対応、独自の計算例を説明します。2025年度の金融緩和については公式解答例と原題からの金利方向が一致しないため、不一致と採用した根拠を明記しています。価格変化の所得効果も、原題にない正常財の仮定を無断で補わず条件ごとに扱います。問題と公式資料は大学から取得し、教材には原問題や公式答案の文章を転載していません。購入前には2回の実施年、全4大問12設問の範囲、21ページの見本と価格を確認してください。",
+      "sources": [
+        {
+          "departmentName": "経済学部 3年次編転入学試験 専門科目（経済学）",
+          "url": "https://www.ryukoku.ac.jp/admission/nyushi/exam_past/",
+          "yearRange": "2025・2026年度入学（2024・2025年11月実施）",
+          "officialAnswerAvailability": "full",
+          "lastConfirmedAt": "2026-11-02",
+          "note": "2025年度入学は2024年11月10日、2026年度入学は2025年11月9日実施の3年次編転入学試験です。対象は専門科目の経済学で、各回2大問・6設問は全問必答です。公式サイトでは問題・解答例・出題意図を確認できます。独自答案集は2回の全4大問12設問を21ページにまとめ、最適消費と所得課税、限界代替率、価格変化の分解、政府支出乗数、IS・LM、貨幣保有、流動性の罠を説明します。2025年度問題2(2)は、右下がりISと右上がりLMという原題条件では貨幣供給増加によりGDP増加・金利低下となり、公式例の金利上昇と一致しません。教材は導出と検算を示して区別します。2026年度問題1(3)の所得効果は、正常財・下級財の条件で符号を分けます。問題本文・原図・英語科目は非収録です。",
+          "relatedProductPath": "/grad-schools/ryukoku-university/faculty-of-economics/economics"
+        }
+      ]
+    },
+    {
+      "slug": "sophia-university",
+      "fullName": "上智大学",
+      "shortName": "上智大",
+      "updatedAt": "2026-11-02",
+      "searchTitle": "上智大学経済学研究科の院試過去問｜ミクロの公式問題と解答解説",
+      "searchDescription": "上智大学院経済学専攻の公式過去問とミクロの解答解説を案内。9月・2月の実施年、専門6問から4問の選択指定、教材が収録する科目を確認できます。",
+      "intro": "上智大学の大学院過去問題ページは、入学年度と研究科を選んで問題や解答例を確認する入口です。経済学研究科経済学専攻の博士前期課程を受験する場合は、同じ2026年度入学でも前年9月実施と当年2月実施を区別して資料を選びます。このページでは、その2回のミクロ経済学を対象にした独自の解答・解説集を案内します。公式の専門試験にはミクロ以外の科目もあり、全6問から4問を選ぶ形式です。教材が収録するのはミクロの各回2問で、他科目の準備を含めた試験全体の答案集ではありません。交換経済では初期保有の評価と超過需要、競争均衡と効率性をつなぎ、企業の問題では反応関数、価格差別、関税と余剰を条件から確認します。公式例の超過需要の符号とパレート改善の境界には定義上の違いがあるため、採用した定義と導出を示して照合しています。9月の公式例は画像に埋め込まれた解答も読んで確認し、テキスト抽出に出ない箇所を未公表と扱っていません。公式問題は大学から、教材の全4大問18設問・22ページの収録範囲と見本は商品から確認できます。原問題や公式答案の文章、他科目、2027年度の答案は教材に含みません。 2027年度の一般入試は書類審査とZoom口述による方式へ変わっているため、2026年度筆記の教材と現行の受験方法を分けて使ってください。",
+      "sources": [
+        {
+          "departmentName": "経済学研究科 経済学専攻 博士前期課程 ミクロ経済学",
+          "url": "https://adm.sophia.ac.jp/jpn/in_ad/graduate_kakomon/graduate-exam_sample2026/",
+          "yearRange": "2026年度入学 9月・2月入試",
+          "officialAnswerAvailability": "full",
+          "lastConfirmedAt": "2026-11-02",
+          "note": "2026年度入学の9月入試は2025年9月10日、2月入試は2026年2月15日の実施です。公式問題の専門試験はミクロ・マクロ・統計学/計量経済学の計6問から4問選択で、ミクロの2問だけで答題数は満たせません。本教材は両回のミクロ全4大問18設問を22ページに収録し、他科目は含みません。公式解答例は画像埋込みの箇所も含めて照合しました。2月問題1の超過需要は需要から初期保有を引く定義を採り、公式例の反対符号は超過供給として区別します。パレート改善も両者の厳密改善と、全員の弱改善かつ一人以上の厳密改善とを分け、境界を説明します。純粋交換の均衡と効率性、数量競争と関税、需要・弾力性・所得補償、価格差別と余剰が対象です。問題本文・原図・公式解答例の文章は非収録です。 現行2027年度一般入試は書類審査とZoom口述による方式です。最新の募集要項を別途確認してください。",
+          "relatedProductPath": "/grad-schools/sophia-university/graduate-school-of-economics/microeconomics"
+        }
+      ]
+    }
+  ]
+}
