@@ -1,0 +1,19 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "com.inshihub/inshihub",
+  "title": "院試hub (Japanese graduate entrance exams)",
+  "description": "Japanese graduate entrance exam (院試) data: exam topics, official past papers, similar programs.",
+  "version": "1.0.0",
+  "websiteUrl": "https://inshihub.com/resources/data",
+  "repository": {
+    "url": "https://github.com/heavyinthegame/inshi-open-data",
+    "source": "github",
+    "subfolder": "mcp"
+  },
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://inshihub.com/mcp"
+    }
+  ]
+}

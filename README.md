@@ -20,7 +20,7 @@
 
 ## AIツールから使う
 
-読み取り専用のMCPサーバーを `https://inshihub.com/mcp` で公開しています（Streamable HTTP、認証なし）。科目の検索、出題テーマが近い併願先、テーマ別の出題大学、公式過去問の配布先の4つのツールがあります。
+読み取り専用のMCPサーバーを `https://inshihub.com/mcp` で公開しています（Streamable HTTP、認証なし）。[MCP Registry](https://registry.modelcontextprotocol.io/v0/servers?search=inshihub) に `com.inshihub/inshihub` として登録しています（定義は [`mcp/server.json`](mcp/server.json)）。MCPに対応していないツールからは `https://inshihub.com/mcp/tools/{name}`（OpenAPI：`https://inshihub.com/mcp/openapi.json`）で同じ検索ができます。科目の検索、出題テーマが近い併願先、テーマ別の出題大学、公式過去問の配布先の4つのツールがあります。
 
 ```bash
 claude mcp add --transport http inshihub https://inshihub.com/mcp
